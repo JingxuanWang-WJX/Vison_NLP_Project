@@ -1,0 +1,122 @@
+I. Sonnet classique
+
+Structure de base :
+
+Chaque poème comporte 14 vers.
+
+Chaque vers a 12 syllabes (alexandrin).
+
+Organisation : deux quatrains + deux tercets.
+
+Rimes : souvent ABAB CDCD EFEF GG, mais peuvent varier selon les règles de la tradition.
+
+Types de sonnets :
+
+Pétrarque : ABBA ABBA CCD EED
+
+Ronsard / Français classique : ABAB ABAB CCD EED
+
+Règles de composition :
+
+Les quatrains doivent présenter un développement thématique.
+
+Les tercets concluent le poème et apportent une réflexion ou un retournement.
+
+Les vers doivent être équilibrés en rythme et césure (souvent 6/6).
+
+II. Quatrain (4 vers)
+
+Structure de base :
+
+4 vers, généralement 8 à 12 syllabes.
+
+Rimes : croisée (ABAB), plates (AABB), ou embrassées (ABBA).
+
+Les vers doivent avoir un rythme harmonieux et des images cohérentes.
+
+Règles de parallélisme et correspondance :
+
+Les idées ou images des vers doivent être liées ou contrastées.
+
+Utilisation de figures de style recommandée pour renforcer la musicalité et la force des images.
+
+III. Octosyllabe / Alexandrin
+
+Vers courts (8 syllabes) ou vers longs (12 syllabes, alexandrin).
+
+Rimes et rythme réguliers recommandés.
+
+Peut se combiner pour former des quatrains, sextils, ou poèmes plus longs.
+
+IV. Ballade et Rondeau
+
+Ballade : 3 strophes de 8 à 10 vers + envoi final de 4 vers.
+
+Rondeau : 13 ou 15 vers, avec refrain répété après certaines strophes.
+
+Rimes et répétitions du refrain doivent respecter la forme.
+
+V. Poème libre ou lyrique
+
+Vers libres, longueur variable.
+
+Peut combiner différents mètres et rimes, mais doit rester harmonieux.
+
+Idéal pour exprimer des émotions personnelles ou des paysages.
+
+Structure suggérée pour un poème libre :
+
+Introduction / ouverture : poser le thème ou l’ambiance.
+
+Développement : description ou émotion.
+
+Tournant / climax : intensification de l’émotion ou réflexion.
+
+Conclusion / chute : synthèse ou sentiment final.
+
+VI. Figures de style et procédés poétiques
+Figures de style :
+
+Métaphore : comparaison implicite.
+
+Comparaison : comparaison explicite avec « comme », « tel que ».
+
+Personnification : donner des traits humains à un objet ou un animal.
+
+Hyperbole : exagération.
+
+Antithèse / contraste : mettre en opposition deux idées.
+
+Allitération : répétition de sons consonantiques.
+
+Assonance : répétition de sons voyelles.
+
+Énumération / accumulation : succession de termes pour intensifier.
+
+Anaphore / répétition : répétition en début de vers ou phrase.
+
+Question rhétorique : poser une question pour souligner une idée.
+
+Procédés narratifs et expressifs :
+
+Symbolisme : utiliser un objet ou un élément pour représenter une idée.
+
+Mise en valeur par contraste : renforcer l’effet par opposition.
+
+Progression rythmique : alterner temps forts/faibles dans le vers.
+
+Écho / reprise : rappel de mots ou d’idées pour lier le poème.
+
+Description et émotion : décrire pour faire ressentir l’émotion.
+
+Dynamique et statique : mélanger mouvement et calme dans le texte.
+
+Micro-détails révélateurs : utiliser des détails pour évoquer des idées plus larges.
+
+VII. Règles de rimes et rythme
+
+Les rimes doivent être cohérentes et suivre un schéma précis selon la forme choisie.
+
+Les vers doivent respecter le nombre de syllabes, avec une césure équilibrée pour les alexandrins (6/6).
+
+Les images et le vocabulaire doivent être cohérents et harmonieux, avec possibilité d’inclure des allusions littéraires.

@@ -1,0 +1,992 @@
+[
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Chaleur des Vieux Murs",
+      "poem_content": "Les murs de brique ocre, au chaud soleil penchés,\nSuspendent dans le ciel leurs toits de tuile usée,\nGardent le souvenir des temps qui sont passés,\nEt l'âme de la ville y semble reposée.\n\nAux fils tendus, des draps modestement tachés\nRacontent le secret d'une vie improvisée,\nSecrets que les regards n'ont jamais approchés,\nDans l'écho d'une voix que le vent a brisée.\n\nLa pierre garde tout, le rire et le tourment,\nDe chaque vie obscure, éphémère moment,\nQui laisse sur sa face un impalpable fard.\n\nLe linge, au vent léger, raconte sa rengaine,\nEt l'existence simple, humble et quotidienne,\nSe mêle à la mémoire, au-delà du regard.",
+      "poem_explanation": "Ce sonnet classique, de forme ronsardienne, dépeint une scène de vie intemporelle. Les quatrains (rimes croisées ABAB) opposent la pérennité des vieilles pierres à la fugacité de la vie humaine, symbolisée par le linge. Les deux tercets (CCD EED) concluent sur la fusion de ces deux temporalités, où la mémoire des murs se nourrit des instants quotidiens. Le poème est composé en alexandrins, respectant la césure classique."
+    },
+    "total_token_count": 6316,
+    "image_path": "data/Train/954.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Rivage Éternel",
+      "poem_content": "L'onde turquoise au sable blond se livre,\nEt son écume blanche heurte le roc usé,\nDans un flux incessant que le courant enivre,\nEn un soupir sans fin, toujours recommencé.\n\nImmuable rempart à la force marine,\nLe sombre schiste endure, impassible et nu,\nCette danse éternelle, à la fois purpurine\nEt pâle sous un ciel parfois inaperçu.\n\nAinsi le temps s'efface en ce tableau vivant,\nOù la mer se déchaîne à la force du vent,\nLaissant le roc garder sa mémoire profonde.\n\nLe sable fin reçoit cette danse éternelle,\nDe l'écume fugace, et pourtant si rebelle,\nQui raconte à jamais la genèse du monde.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint la scène intemporelle d'un rivage. Les deux quatrains, en rimes croisées (ABAB CDCD), décrivent le contraste entre la vague mouvante et le rocher immuable. Les deux tercets, en rimes plates (CCD EED), élèvent la scène à une méditation sur le temps, la mémoire et l'éternel recommencement des forces de la nature."
+    },
+    "total_token_count": 7026,
+    "image_path": "data/Train/955.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Dernier Éclat",
+      "poem_content": "Sur le bois sombre et nu, dernières touches d'or,\nQuelques feuilles tremblant dans une danse lente,\nOffrent un bref éclat avant que ne les mord\nLa morsure du froid, saison bientôt violente.\n\nContre le tronc massif, fragile et doux trésor,\nQue le vent effleurant berce dans son attente,\nLe dernier feu du jour sur leur beauté s'endort,\nPrélude au long sommeil que l'hiver nous présente.\n\nAinsi s'en va la vie au caprice du temps,\nPromesse d'un adieu pour de nouveaux printemps ;\nLa beauté resplendit dans son dernier éclat.\n\nCe jaune lumineux est une sentinelle\nQui garde le secret de la vie qui se renouvelle,\nAvant que l'ombre gagne et rende le tout mat.",
+      "poem_explanation": "Ce sonnet de forme classique s'inspire de la beauté mélancolique de l'image. Il est composé de deux quatrains en rimes croisées (ABAB ABAB) et de deux tercets sur deux rimes (CCD EDE), le tout en alexandrins. Le poème utilise l'image des dernières feuilles d'or pour méditer sur la nature éphémère de la beauté et le cycle de la vie."
+    },
+    "total_token_count": 8434,
+    "image_path": "data/Train/956.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Porte d'Azur",
+      "poem_content": "Sur le mur effrité que le temps défigure,\nSe dresse un huis d'azur, au bois presque mourant,\nSes gonds rouillés ont vu l'implacable usure,\nGardien d'un horizon au loin étincelant.\n\nMalgré les fers scellés, vaine et frêle armure,\nL'œil perçoit l'océan, libre et ondoyant,\nEt le vent de la mer dans les brèches murmure\nLe chant d'un autre monde, un appel incessant.\n\nCe portail n'est plus rien qu'un songe, qu'un passage\nVers l'éternel azur d'un lointain rivage,\nOù l'âme se délie en une heure sereine.\n\nLe bois usé retient un fragile espoir ;\nFaut-il quitter la vie et sa route certaine\nPour l'inconnu sans fin qu'on ne peut entrevoir ?",
+      "poem_explanation": "Ce poème est un sonnet classique en alexandrins. Il respecte une structure de rimes croisées dans les quatrains (ABAB ABAB) et une structure CCD EDE dans les tercets. Le poème utilise la métaphore de la porte délabrée pour symboliser le passage entre un passé en ruines et un avenir infini et incertain, représenté par la mer et l'horizon."
+    },
+    "total_token_count": 6674,
+    "image_path": "data/Train/957.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Refuge Caché",
+      "poem_content": "Sous l'épais paravent d'un rideau de verdure,\nLa grille en fer forgé protège le jardin,\nSe cache une bâtisse à l'antique allure,\nOù dort la quiétude au creux d'un lieu divin.\n\nLe blanc des hortensias, dans l'ombre qui s'étale,\nDessine un point de jour sur le mur décrépit,\nEt la porte entr'ouverte est une invite cordiale,\nVers la paix d'un foyer où l'âme s'assoupit.\n\nLoin du monde agité, de sa course importune,\nL'âme en ce lieu secret recherche sa fortune,\nEt trouve le repos que l'on croyait perdu.\n\nLe seuil n'est qu'une porte où la peine s'oublie,\nVers une simple vie à jamais embellie,\nUn instant de bonheur à nos cœurs suspendu.",
+      "poem_explanation": "Ce sonnet de forme classique, composé en alexandrins, dépeint une demeure paisible perçue comme un refuge hors du temps. Les quatrains, en rimes croisées (ABAB CDCD), décrivent la scène et son atmosphère secrète, tandis que les tercets (CCD EED) explorent le sentiment de quiétude et de paix intérieure qu'inspire ce lieu protégé."
+    },
+    "total_token_count": 6966,
+    "image_path": "data/Train/958.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Voie Sylvestre",
+      "poem_content": "Un long ruban d'asphalte où le regard se perd,\nGardé par deux remparts de sapins ténébreux,\nSemble tracer un vide au sein du bois ombreux,\nEt s'enfoncer sans fin dans le silence vert.\n\nLa lumière au sommet luit comme une promesse,\nMais l'ombre sur le sol étend son froid manteau ;\nLe chemin est un trait qui fuit sans un mot,\nVers un but inconnu qu'un point lointain confesse.\n\nL'esprit, en contemplant cette ligne tracée,\nSe sent comme aspiré par l'immense pensée\nQui règne en ce domaine et défie le regard.\n\nLe but du long chemin semble n'être qu'un leurre,\nEt le seul vrai voyage est de goûter cette heure,\nOù l'on fuit le tumulte pour un nouvel départ.",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint une route forestière comme une métaphore du voyage introspectif. La structure respecte la forme pétrarquiste avec deux quatrains en rimes embrassées (ABBA) suivis de deux tercets (CCD EED), opposant la description visuelle du chemin à une réflexion sur le destin et la quête de sens."
+    },
+    "total_token_count": 7539,
+    "image_path": "data/Train/959.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Vœu sur la Pierre",
+      "poem_content": "Sur le granit usé qu’un ciel d’hiver éclaire,\nUn glyphe flamboyant promet l’or et le bien ;\nLe vent glacïal souffle en cette heure austère,\nEt la pierre immuable observe ce destin。\n\nLes arbres dénudés, spectres de la saison,\nOffrent au jour blafard leur triste nudité ;\nLe rouge caractère est comme une oraison\nVoulant nier l’oubli et la caducité。\n\nEst-ce un vœu de fortune en cette solitude,\nOu le sceau d’un été, par simple habitude ?\nLe roc garde ce signe en son cœur immortel。\n\nIl porte en sa froideur ce durable message,\nTémoin muet des jours et de notre passage,\nPromesse de chaleur sous un rayon du ciel。\n",
+      "poem_explanation": "Ce sonnet de forme classique est composé en alexandrins. Il s'inspire du contraste entre la permanence de la pierre gravée d'un symbole de fortune et l'aspect éphémère d'un paysage hivernal. La structure suit le modèle français : deux quatrains en rimes croisées (ABAB) et deux tercets (CCD EED), développant une méditation sur la persistance de l'espoir humain face au temps."
+    },
+    "total_token_count": 6774,
+    "image_path": "data/Train/96.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Alchimie Silencieuse",
+      "poem_content": "Dans la pénombre douce où la cire murmure,\nS'éveille le savoir d'un antique herboriste,\nLa flamme frêle et chaude à la nuit se parjure,\nOffrant au rituel son éclat d'améthyste.\n\nLe bois porte le sceau des plantes écrasées,\nLe pilon broie le temps et les simples secrets,\nAux parfums de la terre doucement apaisées,\nLes âmes des jardins aux charmes très discrets.\n\nIci naît le remède ou le songe étrange,\nUn philtre où la nature en magie se change,\nPour apaiser le corps ou l'esprit tourmenté.\n\nLe mortier garde en lui la force de la sève,\nLa fiole attend la fin d'une alchimie brève,\nD'un pouvoir végétal dans l'ombre concentré.",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, dépeint une scène d'herboristerie ou d'alchimie. Les quatrains plantent le décor mystérieux à la lueur des bougies, tandis que les tercets explorent la transformation des plantes en un remède ou un philtre. La structure respecte le schéma de rimes ABAB ABAB CCD EED, typique du sonnet français."
+    },
+    "total_token_count": 4082,
+    "image_path": "data/Train/960.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Voie d'Émeraude",
+      "poem_content": "Sur l'immense damier que l'onde verte ondule,\nUn ruban de bitume, un solitaire engin,\nSuspend son blanc éclat au détour d'un chemin,\nOù le labeur humain devant l'ampleur recule.\n\nLe vert en mille tons inonde ce grand monde,\nOù la machine marque une éphémère trace,\nUn point dans l'infini qui glisse et puis s'efface,\nSur la pente à jamais puissante et si féconde.\n\nQuel rêve poursuit-il, ce simple voyageur,\nPerdu dans la splendeur et dans sa douce lenteur,\nPendant que son esprit dans ce tableau se plonge ?\n\nIl suit la courbe pure et le vaste horizon,\nEmportant avec lui le parfum d'un long songe,\nVers une autre journée, une autre saison.",
+      "poem_explanation": "Ce sonnet de forme classique, composé en alexandrins, dépeint un paysage de plantations verdoyantes. La structure (deux quatrains en rimes embrassées ABBA, suivis de deux tercets en rimes CCD EDE) met en contraste l'immensité de la nature avec la présence solitaire d'un véhicule, symbole du voyage et de la trace éphémère de l'homme. Le poème progresse d'une description contemplative à une méditation sur le destin du voyageur."
+    },
+    "total_token_count": 7487,
+    "image_path": "data/Train/961.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Titan Solitaire",
+      "poem_content": "Son tronc noueux s'élance, antique souverain,\nVers le dôme infini d'un ciel privé de vie,\nGravant sur son écorce un séculaire dédain,\nOù nulle feuille d'or ne tremble et ne survit.\n\nSes bras décharnés prient le silence absolu,\nTel un réseau nerveux dans la pâle atmosphère ;\nUn squelette d'espoir à jamais résolu\nÀ porter le grand vide et son lourd ministère.\n\nIl ignore le poids des saisons oubliées,\nEt ses branches au ciel sont des mains suppliées,\nOffertes au néant qui ne répond jamais.\n\nSa solitude est reine, austère et souveraine,\nEt nulle plainte ne sort de son écorce pleine\nDes secrets que le temps a scellés à jamais.",
+      "poem_explanation": "Ce poème est un sonnet classique en alexandrins, qui dépeint la majesté solitaire et intemporelle de l'arbre dénudé. Il respecte la structure de deux quatrains aux rimes croisées (ABAB CDCD) suivis de deux tercets aux rimes plates (CCD EED), conformément au modèle français. Les figures de style comme la personnification et la métaphore sont utilisées pour évoquer sa force et sa résilience."
+    },
+    "total_token_count": 6473,
+    "image_path": "data/Train/962.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Toit Serein",
+      "poem_content": "Derrière un voile obscur de feuilles éternelles,\nSe dresse une demeure aux lignes d'Orient ;\nLe vent murmure au bois des choses solennelles,\nProtégeant le repos d'un silence priant.\n\nLe toit de tuiles grises, en sa courbe savante,\nAccueille la clarté d'un ciel pur et serein ;\nEt l'ombre des grands bois, douce et enveloppante,\nDessine sur les murs les contours du jardin.\n\nL'esprit trouve la paix en ce lieu solitaire,\nOù le temps suspendu refuse d'être austère,\nMais offre au cœur lassé son plus tendre repos.\n\nLe vert profond des pins, des buis et des érables\nCache des songes doux sous ses graves propos,\nEt rend les courts instants subitement aimables.\n",
+      "poem_explanation": "Ce sonnet classique dépeint la quiétude d'une demeure d'inspiration japonaise, perçue à travers un écrin de verdure. Le poème respecte la structure formelle de deux quatrains en rimes croisées (ABAB CDCD) et de deux tercets (CCD EDE), composés en alexandrins, pour exprimer un sentiment de paix et d'harmonie intemporelle."
+    },
+    "total_token_count": 7239,
+    "image_path": "data/Train/963.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Demeure Basque",
+      "poem_content": "Sur le mur éclatant que baigne un franc soleil,\nLe bois rouge dessine un trait sous le grand ciel,\nUn sang vif qui répond au toit de tuile vermeil,\nRévélant l'artisan et son geste essentiel.\n\nLe feuillage indiscret d'un abondant couvert\nCaresse la façade et boit sa douce chaleur,\nTandis qu'un frais soupir, par la fenêtre ouvert,\nSemble mêler au vent une exquise couleur.\n\nIci, le roc puissant défie la fuite du temps,\nEt les jours s'y déroulent, magnifiques et lents,\nAccueillant le repos, l'âme du cher passé.\n\nL'ombre et la vive ardeur composent un jeu heureux,\nOù l'homme et la nature ont trouvé paix entre eux,\nDans un songe d'été jamais plus effacé.\n",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, dépeint une demeure d'inspiration basque sous un ciel d'été. Les deux quatrains décrivent l'architecture traditionnelle, avec ses colombages rouges et ses murs blancs, contrastant avec la verdure luxuriante des palmiers. Les deux tercets concluent sur une note méditative, évoquant l'harmonie et la quiétude du lieu, où le temps semble suspendu. La structure des rimes (ABAB ABAB CCD EED) respecte la forme du sonnet français."
+    },
+    "total_token_count": 5692,
+    "image_path": "data/Train/964.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Contrastes d'Istanbul",
+      "poem_content": "Les dômes de jadis, gris sous le ciel immense,\nRegardent s'élever les tours de l'avenir,\nTémoins silencieux d'une immuable essence,\nQui défient le temps prompt à tout anéantir.\n\nLe béton arrogant près de la pierre sage,\nCompose le tableau d’un monde partagé,\nOù l'ombre du passé caresse le visage\nD'un présent affairé, sans cesse dérangé.\n\nDevant ce double aspect, l’âme émue et perplexe\nCherche un sens éternel au monde si complexe,\nEt voit dans ce décor un sublime destin.\n\nLa pierre garde en soi le songe qui l'anime,\nEt l'acier orgueilleux touche à la même cime,\nUnissant l'Orient au jour du lendemain.\n",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint le paysage d'Istanbul, où les dômes anciens côtoient les gratte-ciel modernes. La structure respecte la forme française classique avec deux quatrains en rimes croisées (ABAB) suivis de deux tercets (CCD EED), développant une méditation sur le contraste entre le passé et le présent."
+    },
+    "total_token_count": 6037,
+    "image_path": "data/Train/965.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Voûte de Cristal",
+      "poem_content": "Un dôme de cristal aux lignes infinies,\nSur l'antique bâtisse étend son ombre claire,\nTissant un pur filet de savantes manies,\nOù le jour se découpe en un subtil mystère.\n\nLa pierre d'autrefois, aux gloires endormies,\nReçoit le froid dessin d'un moderne univers,\nGardienne du savoir et des œuvres choisies,\nEt l'ombre et le soleil y composent des vers.\n\nLe présent au passé rend un sublime hommage,\nTendant sur lui le dais d'un savant assemblage,\nPour que la lumière honore le savoir.\n\nL'acier, courbe savante, enlace sans effort\nLa pierre qui retient le temps et son trésor,\nEt grave leur union sur le mur de grès noir.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, explore le dialogue entre l'architecture ancienne et moderne visible sur l'image. Les quatrains, en rimes croisées (ABAB CDCD), opposent la voûte de verre géométrique à la pierre historique qu'elle abrite. Les tercets (CCD EED) concluent sur l'harmonie de cette alliance, symbolisant la continuité entre le passé et le présent."
+    },
+    "total_token_count": 7942,
+    "image_path": "data/Train/966.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Sentier des Cimes",
+      "poem_content": "Sur la lande sans fin que le givre décore,\nUn sentier incertain se perd vers l'horizon,\nLe vent souffle et le roc sous le ciel se colore,\nD'une pâle lueur au cœur de la saison。\n\nNul arbre ne grandit, nulle ombre ne s'explore,\nOffrant au voyageur pour seule garnison\nLe silence éternel que l'espace dévore,\nEt le souffle du vent pour unique chanson。\n\nL'esprit face au néant se cherche une mémoire,\nDevant l'immensité d'un futur illusoire,\nEt croit voir au lointain un sublime refuge。\n\nMais le sentier s'efface en sa course savante,\nLaissant l'âme pensive et l'attente éprouvante,\nCar seul le ciel constant est son suprême juge。\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint la majesté et la solitude d'un paysage montagneux. La structure respecte la forme Ronsardienne avec deux quatrains en rimes croisées (ABAB ABAB) suivis de deux tercets (CCD EED), évoquant la contemplation de l'homme face à l'immensité de la nature et à son propre destin."
+    },
+    "total_token_count": 7157,
+    "image_path": "data/Train/967.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Heure Silencieuse",
+      "poem_content": "Sur le drap satiné qu'une aube douce arrose,\nUn livre est entrouvert aux promesses des pages,\nOffrant à l'esprit seul de lointains paysages,\nEt le temps suspendu s'accorde une humble pause.\n\nLa boisson exhale une ambrée et douce chaleur,\nSur la fine soucoupe et sa porcelaine,\nTandis que l'âme fuit pour une histoire lointaine,\nEt goûte à cet instant une simple faveur.\n\nDans le calme feutré d'un précieux silence,\nUn monde nouveau naît où le voyage commence,\nProtégé du dehors par la danse des mots.\n\nL'heure est un pur instant, un temple pour l'esprit,\nOù chaque fleur séchée doucement nous redit\nLa beauté du repos loin des mondains échos.",
+      "poem_explanation": "Ce sonnet classique de forme française (deux quatrains en rimes embrassées ABBA, suivis de deux tercets en CCD EED) s'inspire de l'atmosphère paisible de l'image. Il décrit un moment de lecture et de recueillement, où le café, le livre et les fleurs séchées créent un refuge hors du temps. La structure en alexandrins et le choix d'un vocabulaire doux visent à retranscrire la quiétude et l'évasion intellectuelle suggérées par la scène."
+    },
+    "total_token_count": 7441,
+    "image_path": "data/Train/968.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Regard du Maki",
+      "poem_content": "Sur la lisse barrière, il observe, songeur,\nEt son dos se détache en une masse grise ;\nSon regard d'ambre porte une étrange langueur,\nEt son poil doux s'anime au toucher de la brise.\n\nLes anneaux de sa queue, en leur riche parure,\nPendent dans le vide, immobile étendard,\nÉvoquant la forêt, la lointaine nature,\nQue semble regretter son mélancolique regard.\n\nQue dit ce vif retour, cette pose soudaine ?\nEst-ce un bruit qui l'émeut, une crainte incertaine,\nOu l'écho d'un appel dans la jungle perdu ?\n\nIl songe à la lointaine et douce liberté,\nPris au piège muet de sa captivité,\nLe temps sur la barrière est un son suspendu.",
+      "poem_explanation": "Ce sonnet classique, inspiré par le regard mélancolique d'un maki catta, explore le contraste entre sa nature sauvage et sa captivité. La structure respecte la forme traditionnelle avec deux quatrains en rimes croisées (ABAB CDCD) et deux tercets (CCD EED), le tout en alexandrins, pour évoquer la nostalgie de l'animal."
+    },
+    "total_token_count": 7038,
+    "image_path": "data/Train/969.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Élan Victorieux",
+      "poem_content": "Les corps tendus s'arrachent dans un vif effort,\nLeurs cœurs ardents pulsant au rythme d'un seul élan,\nPour la gloire promise et pour changer le sort,\nD'un sprint féroce où l'on défie le souffle du vent.\n\nLa piste rouge est un ruban que leur pied mord,\nLe cri muet des visages se fait violent,\nSous le regard du public, qui juge le plus fort,\nChaque muscle est un arc tendu droit vers l'avant.\n\nLe but s'approche, il faut tenir la volonté,\nPour conquérir un peu de cette éternité ;\nDans ce combat muet, sans cri ni parole,\n\nLe corps n'est plus qu'un trait qui vise le futur,\nOù la victoire unique au vainqueur s'immole,\nDépassant la douleur et le destin obscur.",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint l'intensité et la tension d'une course de vitesse. Les quatrains décrivent l'effort physique des athlètes sur la piste, tandis que les deux tercets offrent une réflexion sur la volonté, la quête de gloire et l'instant décisif de la victoire. La structure des rimes suit le modèle classique français ABAB ABAB CCD EDE."
+    },
+    "total_token_count": 8715,
+    "image_path": "data/Train/97.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Miroir d'Azur",
+      "poem_content": "De verre et d'acier, un colosse orgueilleux\nÉlance sa structure au fond d'un ciel parfait,\nEt capte dans son prisme un éclat merveilleux\nOù l'azur se confond avec son propre effet.\n\nLe regard se perdant, de bas en haut, curieux,\nContemple ce duel dont l'art est le bienfait,\nLe soleil y dessine un reflet précieux,\nD'un monde renversé, trompeur et contrefait.\n\nL'ouvrage est un défi, prison de la lumière,\nQui voudrait retenir l'immensité première,\nMais le verre n'est rien qu'un fragile artifice.\n\nCar le ciel immuable, au-dessus des cités,\nGarde tous les secrets de ses éternités,\nEt domine de haut ce brillant édifice.",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, décrit la majesté d'une structure architecturale moderne. Il suit le schéma de rimes ABAB ABAB CCD EED. Le poème explore le contraste entre l'ambition humaine, symbolisée par l'édifice de verre, et l'infini immuable du ciel qu'il tente de refléter et de capturer."
+    },
+    "total_token_count": 6341,
+    "image_path": "data/Train/970.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Miroir Vide",
+      "poem_content": "Sur le sable désert que le ciel assombrit,\nSon corps vêtu de noir semble une ombre pensive ;\nElle offre au vide un cadre où nul trait ne s'inscrit,\nCapturant l'horizon d'une plage captive.\n\nLe verre où son image aurait dû se poser,\nReflète un monde nu, sans âme et sans saison,\nOubliant la beauté qu'il devait exposer,\nEt nie sa présence, effaçant sa raison.\n\nEst-ce son propre cœur, ce miroir de glace,\nLui tendant le néant où son être s'efface ?\nElle y cherche en vain la trace d'un regard ;\n\nLe temps dans ce reflet ne connaît nul émoi,\nEt laisse sa figure exilée quelque part,\nPerdue entre le monde et la perte de soi.",
+      "poem_explanation": "Ce sonnet classique en alexandrins explore les thèmes de l'absence, de l'identité et de la mélancolie, inspiré par l'image surréaliste d'une femme tenant un miroir qui ne la reflète pas. La structure suit un schéma de rimes ABAB ABAB CCD EDE, où les quatrains posent la scène et le paradoxe, et les tercets concluent sur une réflexion introspective."
+    },
+    "total_token_count": 6223,
+    "image_path": "data/Train/971.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Colosse et la Fleur",
+      "poem_content": "Un champ de fleurs s'épanouit sous le ciel clair,\nOù le corail des fleurs pare la verte plaine,\nMais un titan de fer trouble le doux éther,\nMêlant sa force brute à la grâce souveraine.\n\nLe pylône puissant, sentinelle d'éther,\nIgnore la beauté qui naît sous sa tutelle ;\nIl ne sent point le vent, ni le parfum amer\nDe cette floraison si vive et si rebelle.\n\nL'Homme impose sa loi sur la terre nourricière,\nDressant l'ordre du fer à la simple lumière ;\nMais la fleur fragile, en son destin certain,\n\nIgnore ce colosse et son règne de fer,\nElle offre sa beauté le temps d'un seul matin,\nPuis s'en retourne en paix dormir au cœur de l'hiver.",
+      "poem_explanation": "Ce sonnet d'inspiration classique explore le contraste frappant entre la beauté naturelle et l'empreinte industrielle de l'homme, tel que représenté sur l'image. Le poème est composé de deux quatrains en rimes croisées (ABAB) suivis de deux tercets (CCD EDE), le tout en alexandrins. Il oppose la délicatesse éphémère des fleurs à la présence massive du pylône, pour méditer sur la résilience et le cycle éternel de la nature."
+    },
+    "total_token_count": 8208,
+    "image_path": "data/Train/972.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Reflet du Libraire",
+      "poem_content": "Sur la vitre où la ville en reflets se dessine,\nLe savoir des anciens attend, silencieux,\nUn régiment de cuir que l'or fin enlumine,\nOppose son repos au monde industrieux.\n\nLe passant éphémère ignore ces trésors,\nDont la page jaunie a figé le destin,\nTandis que sur le verre glissent de vagues corps,\nEsquissant le mirage d'un fragile matin.\n\nLe présent et le jadis en un point se confondent,\nOù les vivants pressés aux pages mortes répondent,\nL'âme hésite au miroir entre deux univers.\n\nFaut-il suivre la rue aux destins éphémères,\nOu bien lire en ces mots les vies plus coutumières,\nQui font de l'éternel le but de quelques vers ?",
+      "poem_explanation": "Ce poème est un sonnet classique en alexandrins. Il explore la dualité entre le monde extérieur, éphémère et reflété sur la vitre, et l'univers intemporel du savoir contenu dans les livres anciens. La structure suit le schéma de rimes ABAB ABAB pour les quatrains, et CCD EED pour les tercets, typique du sonnet français."
+    },
+    "total_token_count": 7303,
+    "image_path": "data/Train/973.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Confidence Murmurée",
+      "poem_content": "Contre le vieux crépi d'une façade ocrée,\nOù le temps a laissé sa patine de cendre,\nSe tient une assemblée étrange et sacrée,\nDeux paons royaux venus pour doucement s'entendre.\n\nLeurs cols d'azur ployés en courbe modérée,\nÉchangent un secret que nul ne peut surprendre,\nOffrant au jour discret leur grâce mesurée,\nQue le feuillage vert s'efforce de comprendre.\n\nLeur bec se frôle à peine en un geste si doux,\nLoin du faste et des cours, des regards trop jaloux,\nQu'ils semblent oublier le monde et sa rumeur.\n\nCet instant suspendu, fragile et souverain,\nGrave dans le silence un souvenir divin,\nEt pare l'humble pierre d'une étrange lueur.\n",
+      "poem_explanation": "Ce sonnet classique en alexandrins s'inspire de l'instant de confidence capturé par l'image. Les quatrains décrivent la scène et l'interaction des deux paons dans un décor humble, tandis que les tercets célèbrent la beauté de ce moment secret, loin du tumulte du monde. La structure des rimes est ABAB ABAB pour les quatrains et CCD EDE pour les tercets, une forme classique du sonnet français."
+    },
+    "total_token_count": 6368,
+    "image_path": "data/Train/974.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Miroir de Berlin",
+      "poem_content": "Le monument de pierre, usé par les hivers,\nUn passant solitaire erre sur le pavé,\nSe mire dans un ciel de mondes à l'envers,\nOù le passé s'attarde, à jamais retrouvé.\n\nL'ombre glisse et s'allonge en un silence austère,\nSon double sous ses pas ondule, estompé,\nDevant le front auguste où le temps désespère,\nFantôme d'un instant sitôt décomposé.\n\nCe miroir d'eau retient l'histoire et ses tourments,\nUn songe en noir et blanc, hors des entendements,\nOù l'homme n'est qu'un souffle au seuil de l'éternel.\n\nLe colosse de pierre observe, impassible,\nCe reflet éphémère et presque imperceptible,\nD'un monde renversé sous la voûte du ciel.\n",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint la scène mélancolique de la Porte de Brandebourg après la pluie. Le poème explore le thème du reflet, opposant la permanence du monument à la fugacité du passant. La structure suit un schéma de rimes croisées pour les quatrains (ABAB ABAB) et une disposition en CCD EED pour les tercets, renforçant la dualité entre la description et la réflexion philosophique."
+    },
+    "total_token_count": 6168,
+    "image_path": "data/Train/975.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Sanctuaire du Temps",
+      "poem_content": "Sur la colline où l'herbe est un tapis soyeux,\nLa chapelle de pierre et de brique rougie,\nPar les siècles passés semble encore assagie,\nÉlève sa humble croix vers le bleu des cieux.\n\nSon dôme, point vermeil sous un ciel nuageux,\nContemple les lointains, baignés de nostalgie,\nOù la brume du soir étend sa liturgie,\nEt le monde à ses pieds se fait silencieux.\n\nLe fleuve en contrebas poursuit un cours lointain,\nEt veille sur le sort de ce monde incertain,\nPortant l'écho muet d'une antique ferveur.\n\nLa pierre est un témoin, le dôme est un message,\nRappelant à nos cœurs l'éternelle douceur,\nD'une foi qui survit au temps et à son passage.",
+      "poem_explanation": "Ce poème est un sonnet classique en alexandrins qui s'inspire de l'image d'une ancienne église surplombant une vallée. Il explore les thèmes du temps, de la pérennité de la foi et de la quiétude. La structure suit un schéma de rimes embrassées pour les quatrains (ABBA ABBA) et croisées pour les tercets (CCD EDE), conformément à la tradition poétique française."
+    },
+    "total_token_count": 10561,
+    "image_path": "data/Train/976.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Peuple d'Or",
+      "poem_content": "Vaste océan de fleurs aux corolles dorées,\nQui semble murmurer un hymne au jour naissant,\nVous levez vos regards aux plaines azurées,\nTel un peuple muet, mais toujours frémissant.\n\nVos têtes par milliers, par l’astre colorées,\nSuivent le char du dieu, puissant et caressant,\nEt vos âmes de feu, de lumière enivrées,\nOffrent leur cœur de jais au feu resplendissant.\n\nLe voyageur s'arrête et son âme est saisie\nPar l'ordre et la ferveur de votre symphonie,\nQui monte de la terre en un commun élan.\n\nDans votre mer dorée où le regard se noie,\nIl devine le sens d'une indicible joie,\nÀ ne servir qu'un astre au cœur étincelant.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint un champ de tournesols comme un 'peuple d'or' ou un 'océan de fleurs'. Il suit la structure de deux quatrains et deux tercets avec un schéma de rimes ABAB ABAB CCD EED, typique du sonnet français de la Renaissance, pour célébrer la dévotion de la nature à la lumière."
+    },
+    "total_token_count": 6567,
+    "image_path": "data/Train/977.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Crépuscule sur la Ville",
+      "poem_content": "Le soleil bas, un astre aux rayons éclatants,\nLa ville fait au jour un silencieux adieu,\nInonde les murs sombres, devenus haletants,\nEt l’ombre se déploie en un voile gracieux.\n\nSur le pavé luisant, deux rubans de métal\nSemblent mener le pas d'un cycliste fantôme,\nVers l'éclat souverain d'un feu presque final,\nQui fige la cité comme un vaste royaume.\n\nLe rail devient un fil d'or pur et singulier,\nGuidant l'ombre furtive d'un homme familier,\nQui traverse la scène, instant privilégié.\n\nLa tour dresse au lointain sa fière silhouette,\nTandis que dans le ciel la lueur se projette,\nEt le temps suspendu semble être abrégé.\n",
+      "poem_explanation": "Ce sonnet en alexandrins dépeint une scène urbaine au crépuscule. Il respecte la forme classique avec deux quatrains en rimes croisées (ABAB CDCD) suivis de deux tercets (CCD EED). Le poème capture le contraste entre la lumière dorée du soleil couchant et les silhouettes sombres de la ville, soulignant la beauté éphémère de l'instant."
+    },
+    "total_token_count": 6723,
+    "image_path": "data/Train/978.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Phare Solitaire",
+      "poem_content": "Sur le roc escarpé que l'océan harcèle,\nUn sentier sinueux s'allonge vers le ciel,\nSe dresse la vigie, antique sentinelle,\nQui veille sur les flots d'un regard immortel.\n\nLe vent souffle en courant sur la lande rebelle,\nEt les nuages gris composent un linceul,\nPortant le sel amer d'une plainte cruelle,\nTandis que le grand phare endure, digne et seul.\n\nIl est le point fixe au cœur de la tourmente,\nUne étoile de pierre, une flamme patiente,\nQui rassure les cœurs et les esprits lassés.\n\nDans ce monde changeant où tout semble s'enfuir,\nIl offre un réconfort et promet l'avenir,\nAux voyageurs perdus sur les flots angoissés.",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint la majesté solitaire d’un phare face à l'immensité de l'océan. Les quatrains posent le décor, tandis que les tercets élèvent le phare au rang de symbole d'espoir et de constance dans un monde incertain. La structure suit le schéma de rimes ABAB ABAB CCD EED, caractéristique du sonnet français."
+    },
+    "total_token_count": 5252,
+    "image_path": "data/Train/979.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Nocturne Électrique",
+      "poem_content": "La nuit verse sur la cité ses fioles d'or,\nLe verre des façades où la foule se mire,\nBaignant d'un luxe faux ce moderne décor\nOù chaque pas pressé dans le silence expire.\n\nLes palmiers, exilés d'un rivage lointain,\nRegardent défiler les ombres passagères,\nQui cherchent le repos d'un instant citadin\nSous le fard éclatant des lampes mensongères.\n\nIci, nul ne connaît son voisin d'une table,\nChacun boit le venin d'un plaisir périssable,\nDans ce jardin de fer au monstre dessiné.\n\nEt l'on se sent si seul dans la foule qui danse,\nPris au piège muet d'une riche abondance,\nPar l'éclat de la nuit lui-même abandonné.\n",
+      "poem_explanation": "Ce sonnet classique dépeint une scène urbaine nocturne, en explorant le contraste entre la modernité éclatante et un sentiment de solitude. Le poème est composé en alexandrins et suit un schéma de rimes croisées pour les quatrains (ABAB CDCD) et de rimes suivies pour les tercets (CCD EED), conformément à la tradition poétique française."
+    },
+    "total_token_count": 6326,
+    "image_path": "data/Train/98.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Jardin de Quiétude",
+      "poem_content": "Un sentier de gravier, sous le pin ténébreux,\nDessine une courbe en ce lieu de secret,\nConduisant le songeur au calme silencieux,\nOù l'humble pont de pierre attend, pâle et discret.\n\nLe vert des buis taillés répond à la colline,\nDont l'ombre protectrice invite au reposoir,\nTandis que la nature, en sa forme divine,\nReflète la sagesse en ce muet miroir.\n\nLe pont mène l'esprit vers la contemplation,\nEt semble suspendre toute agitation,\nComme un seuil épuré, loin de toute saison.\n\nLe pas sur le gravier se fait une prière,\nQui s'élève et se perd dans la verte lumière,\nEt l'âme trouve enfin sa véritable raison.",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint la quiétude d'un jardin d'inspiration japonaise. La structure respecte la forme française avec deux quatrains en rimes croisées (ABAB CDCD) suivis de deux tercets sur des rimes suivies et embrassées (CCD EED). Le poème utilise le pont et le sentier comme des métaphores du cheminement intérieur vers la paix et la contemplation."
+    },
+    "total_token_count": 7715,
+    "image_path": "data/Train/980.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Guetteur des Vagues",
+      "poem_content": "Au cœur de l'océan, loin de toute rumeur,\nUn homme sur sa planche observe le silence,\nIl guette de la vague une neuve clameur,\nEt flotte suspendu dans une lente instance.\n\nSon corps en noir uni, fragile voyageur,\nNe connaît que le sel et la froide indolence,\nSemble un point minuscule en cette vaste ampleur,\nOù l'horizon dissout toute son existence.\n\nPourtant son œil tendu ne cherche qu'un signal,\nLe souffle de la houle, un murmure initial,\nQui le fera bondir dans un élan sublime.\n\nAlors, il ne sera plus qu'un rêve éphémère,\nGlissant sur le cristal de cette onde amère,\nPour atteindre en un vol le sommet de la cime.",
+      "poem_explanation": "Ce sonnet en alexandrins dépeint la solitude contemplative d'un surfeur attendant la vague. Les deux quatrains posent le décor de l'immensité marine et de l'attente silencieuse. Les deux tercets introduisent une tension, l'espoir d'un signal menant à l'action. La forme respecte la structure classique du sonnet français avec des rimes croisées (ABAB ABAB) et des tercets en CCD EED, tel que spécifié dans le guide poétique."
+    },
+    "total_token_count": 7334,
+    "image_path": "data/Train/981.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Danseur de Bitume",
+      "poem_content": "La ville jette au soir ses feux multicolores,\nOù glisse indifférent le flot des passants las ;\nEt sur le froid bitume aux mille et un décors,\nUn homme seul attend, perdu dans ce fracas.\n\nQuelques cônes de plastique, en un pauvre rempart,\nDélimitent la scène où son espoir se consume ;\nPour une pièce offerte à son humble regard,\nIl promet un instant de grâce dans la brume.\n\nSa danse est un défi que la foule ignore,\nUn lys silencieux que le béton dévore,\nPrière sans écho dans le bruit infernal.\n\nMais dans ses gestes lents une flamme résiste,\nFragile et solitaire, et noblement triste,\nOffrant l’humanité comme un don principal.",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint le contraste entre un artiste de rue solitaire et l'agitation impersonnelle d'une métropole nocturne. La structure suit le modèle français avec des rimes croisées dans les quatrains (ABAB ABAB) et une conclusion en deux tercets (CCD EED), explorant la dignité humaine face à la modernité écrasante."
+    },
+    "total_token_count": 5444,
+    "image_path": "data/Train/982.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Rivage Éphémère",
+      "poem_content": "L'onde au bord du rivage expire lentement,\nLaissant sa blanche écume aux grains d'or du désert,\nEffaçant chaque trace en son doux mouvement,\nUn baiser éphémère à ce monde offert.\n\nL'ombre qui glisse étend son voile ténébreux,\nSépare le passé du présent incertain,\nLe sable humide garde un reflet nébuleux,\nFrontière où chaque instant prépare son déclin.\n\nSur cette frange où meurt la caresse marine,\nLe temps dépose un sceau que le flot contredit ;\nUne mémoire ancienne à nos yeux se dessine,\nPuis s'efface aussitôt, dans le sable interdite.\n",
+      "poem_explanation": "Ce sonnet en alexandrins s'inspire de la rencontre entre l'eau et le sable pour évoquer les thèmes du temps, de la mémoire et de l'éphémère. Les quatrains, construits sur des rimes croisées (ABAB), décrivent la scène où la vague efface les traces. Les tercets poursuivent la réflexion sur cette frontière symbolique entre ce qui fut et ce qui disparaît."
+    },
+    "total_token_count": 5773,
+    "image_path": "data/Train/983.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Miroir d'Émeraude",
+      "poem_content": "Dans le cristal brisé d'un étrange miroir,\nSe perd un univers aux scintillants mirages ;\nLa main retient un œil, fragment de regard noir,\nEt cache sous ses doigts le reste du visage.\n\nLe fond vert d'émeraude est un songe d'un soir,\nOù mille feux épars composent des présages ;\nMais le reflet saisi, dépouillé de tout espoir,\nRévèle un œil profond, témoin de ses orages.\n\nQui suis-je en ce fragment où l'on se sent jugé,\nPar ce monde éclatant qui nous a saccagé ?\nMon âme est un reflet que la main vient cueillir.\n\nDerrière les lueurs, je ne veux pas mentir,\nEt laisse mon regard au silence assentir,\nCar dans ce peu de moi je ne saurais faillir.",
+      "poem_explanation": "Ce sonnet classique en alexandrins explore le thème de l'identité fragmentée et de l'introspection. Suivant la structure de rimes ABAB ABAB CCD EED, le poème oppose le décor scintillant, métaphore d'un monde superficiel, au reflet partiel et sincère capturé dans le miroir. Les quatrains décrivent la scène et son contraste, tandis que les tercets offrent une réflexion sur la quête du vrai soi au-delà des apparences."
+    },
+    "total_token_count": 5714,
+    "image_path": "data/Train/984.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Les Seigneurs des Cimes",
+      "poem_content": "Sur le flanc du rocher, sous l'or d'un ciel d'airain,\nTrois seigneurs cornus songent, le regard immobile,\nIls règnent en silence sur leur vaste terrain,\nCouchés dans l'herbe sèche, au repos mais habiles.\n\nLe vent porte l'écho d'un monde souverain,\nOù la force première est la loi intangible ;\nLeur corne en spirale est un sceau plus qu'humain,\nSymbole de fierté, puissant et incorruptible.\n\nRien ne trouble leur paix, leur antique splendeur,\nImmuables gardiens de cette âpre grandeur,\nEt leur front se couronne d'un royal diadème.\n\nIls attendent, songeurs, sans crainte ni remords,\nCar ils sont la majesté de la montagne même,\nPlus vivants que la vie et plus forts que la mort.\n",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, dépeint la majesté de trois mouflons dans un paysage sauvage. La structure respecte la forme française avec deux quatrains en rimes croisées (ABAB) et deux tercets (CCD EDE). Le poème évoque la force tranquille et la noblesse intemporelle de ces animaux, les élevant au rang de gardiens immuables de la montagne."
+    },
+    "total_token_count": 5287,
+    "image_path": "data/Train/985.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Marbre et la Toile",
+      "poem_content": "Devant le grand portail sculpté comme un poème,\nUn artiste patient, au milieu du courant,\nOffre au regard pressé la beauté qu’il parsème\nSur ses cadres posés, sous le ciel tolérant.\n\nLa cathédrale observe, immuable et sereine,\nCe commerce de l'âme aux couleurs d'un instant,\nCette humaine agitation, cette humble scène,\nQue le regard achète et qu'emporte le vent.\n\nQuel est le plus vaillant, l'antique bâtisseur,\nOu l'artiste livrant une intime douceur ?\nLa pierre conte au temps une lente victoire.\n\nLe tableau, lui, retient le souffle d'un passant,\nFixe la poésie d'un fugitif instant,\nEt grave dans un coeur sa fragile mémoire.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, explore le contraste entre la pérennité du monument de pierre et l'art éphémère du peintre de rue. Les quatrains en rimes croisées (ABAB CDCD) posent la scène, tandis que les tercets (CCD EED) offrent une méditation sur le temps, la mémoire et les différentes formes d'éternité que l'art peut capturer."
+    },
+    "total_token_count": 6957,
+    "image_path": "data/Train/986.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Rivage Éternel",
+      "poem_content": "Entre deux rocs géants que le temps a sculptés,\nUne âme solitaire erre au bord de la mer,\nGardiens de pierre aux flancs par les flots érodés,\nLe vent porte le sel d'un murmure amer.\n\nLa vague vient mourir en un soupir d'écume,\nLaissant sur le sable humide un fragile dessin,\nEt la marche efface une peine posthume,\nTracée par le reflux d'un immuable destin.\n\nFace au flot menaçant qui jamais ne recule,\nL'être sent sa grandeur et son rien qui l'annule,\nDans ce décor de sel et de vent éprouvé.\n\nLe roc est un témoin qui ne dit jamais rien,\nRetenant le secret d'un passé très ancien,\nMiroir de l'infini qu'il a toujours rêvé.",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint la confrontation entre la fragilité humaine et la majesté de la nature. Les quatrains en rimes croisées (ABAB) posent le décor d'une plage où avance une figure solitaire. Les tercets (CCD EED) développent une méditation sur la condition humaine face à l'éternité, symbolisée par le roc immuable et l'océan."
+    },
+    "total_token_count": 7479,
+    "image_path": "data/Train/987.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Allée sous le Voile",
+      "poem_content": "Sous un dôme de toile où la clarté s'épanche,\nDeux rangs d'arbres touffus gardent le droit chemin,\nEt dont le vert feuillage au moindre souffle penche,\nComme une nef sacrée invitant le destin.\n\nLe sentier d'herbe tendre où le soleil descend,\nS'enfonce au loin, promesse d'un lointain voyage,\nDessine un long tapis d'or et d'argent changeant,\nProtégé par le voile, à l'abri de l'orage.\n\nIci, le temps suspend sa course vagabonde,\nEt l'âme en ce couloir de verdure s'inonde\nD'une paix que le monde extérieur ignore.\n\nLe cœur suit le sentier que la lumière trace,\nDevinant le secret qui se cache en l'espace,\nJusqu'au point où le ciel à l'horizon se dore.\n",
+      "poem_explanation": "Ce sonnet classique, inspiré par l'image d'une allée couverte, dépeint un paysage à la fois ordonné et naturel. La structure en alexandrins, avec des rimes croisées dans les quatrains (ABAB CDCD) et une disposition en CCD EED pour les tercets, sert de cadre à une métaphore du chemin de vie, un parcours protégé menant vers la lumière et la sérénité."
+    },
+    "total_token_count": 7264,
+    "image_path": "data/Train/988.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Quatrain",
+      "poem_title": "Cueillette d'Automne",
+      "poem_content": "Elle avance et sa main cueille une herbe fanée,\nDans le champ silencieux où le soir s'abandonne,\nGardant ce souvenir d'une douce journée,\nComme un trésor secret que l'âme collectionne.",
+      "poem_explanation": "Ce poème est un quatrain en alexandrins, un format classique qui capture un instant unique. Il évoque la mélancolie d'une fin de journée d'automne, où le geste de cueillir des fleurs séchées devient un symbole du souvenir. La structure en rimes croisées (ABAB) renforce l'harmonie et la contemplation de la scène."
+    },
+    "total_token_count": 11498,
+    "image_path": "data/Train/989.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Crépuscule Urbain",
+      "poem_content": "La façade de verre où le couchant s'étale\nDresse un front impassible aux murmures du soir,\nReflétant en éclats une lueur fatale\nSur le ballet sans fin qui foule le trottoir.\n\nLes arbres, sentinelles au cœur de l'avenue,\nContemplent ce torrent de visages pressés,\nIgnorés par le pas d'une foule inconnue\nQui cherche l'éphémère en ses pas cadencés.\n\nLe temple du désir promet son artifice,\nOù la foule se rue en un vain sacrifice,\nEt le temps sur leurs fronts semble s'être arrêté.\n\nMais l'arbre sent la sève en silence monter,\nPrêt pour un autre été qu'il saura affronter,\nDans sa lente et paisible éternité.",
+      "poem_explanation": "Ce sonnet classique, de forme ronsardienne, dépeint le contraste entre l'agitation d'une métropole moderne et la quiétude de la nature. Il respecte la structure en alexandrins de deux quatrains et deux tercets, avec un schéma de rimes croisées (ABAB CDCD) puis une structure en CCD EED pour les tercets, afin de souligner la tension entre le mouvement éphémère de la foule et la permanence de l'arbre."
+    },
+    "total_token_count": 12021,
+    "image_path": "data/Train/99.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Rameur Solitaire",
+      "poem_content": "L'onde limpide et pure où le soleil s'azure,\nUn homme glisse seul, debout sur l'océan,\nCaresse le rivage et sa verte parure,\nPoussé par le silence, un souffle de néant.\n\nLe palmier sur les flots projette son image,\nLe fond de sable d'or se révèle au regard,\nEt l'ombre qui s'allonge au bord du paysage\nAccueille le rameur qui s'avance sans fard.\n\nEn ce lieu suspendu, le temps semble s'éteindre,\nNul tumulte du monde ici ne peut l'atteindre,\nSon être est confondu dans l'éclat de l'azur.\n\nIl vogue vers un point que lui seul peut connaître,\nFuyant ce qui périt pour enfin y renaître,\nSolitaire et serein sur ce cristal si pur.",
+      "poem_explanation": "Ce poème est un sonnet classique en alexandrins. Il respecte la structure de deux quatrains suivis de deux tercets, avec un schéma de rimes croisées (ABAB) dans les quatrains et de rimes suivies (CCD EED) dans les tercets. Le texte évoque la sérénité et la quiétude d'une scène marine, où un rameur solitaire devient le symbole d'une contemplation paisible, en harmonie avec la nature."
+    },
+    "total_token_count": 4805,
+    "image_path": "data/Train/990.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Hameau Miroir",
+      "poem_content": "Au pied du vert rempart que la forêt compose,\nUn hameau s'est posé sur le bord de l'eau pure,\nOù le temps suspendu dans le silence explose,\nEt double sa fragile et paisible architecture.\n\nChaque mur, chaque toit en reflet se dépose,\nComme un songe immortel que l'onde transfigure,\nEt l'âme du village en ce miroir repose,\nLoin des vains tourments et de toute imposture.\n\nLa montagne protège un si profond silence,\nLe village est un songe entre l’eau, le rocher,\nOù l’âme en contemplant mesure l’existence.\n\nLe reflet dans l’abîme ne peut s'en détacher,\nEt grave pour toujours ce tableau qui enchante,\nPour l'esprit voyageur que la beauté tourmente.",
+      "poem_explanation": "Ce sonnet classique, de forme régulière (deux quatrains, deux tercets en alexandrins), dépeint la quiétude d'un village au bord de l'eau, dominé par une montagne. Le poème explore le thème du double et du reflet, opposant la permanence de la nature à l'image fragile et onirique de la civilisation. La structure des rimes suit le schéma ABAB ABAB pour les quatrains et CCD EED pour les tercets."
+    },
+    "total_token_count": 6155,
+    "image_path": "data/Train/991.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Instant Saisi",
+      "poem_content": "Au bord du lac dormant, sous un ciel opalin,\nElle ajuste le prisme où la lumière danse,\nElle cherche l'écho d'un fugace destin,\nPour saisir le secret d'une calme présence.\n\nLe mont se voile au loin dans la brume laiteuse,\nEt l'herbe verte au vent murmure un doux accord,\nSon œil fixe un instant l'onde mystérieuse,\nDont l'objectif ravit le paisible trésor.\n\nUn clic retient le temps, sa fuite est suspendue,\nL'âme de ce paysage en lumière est rendue\nPar l'œil de verre où naît une éternelle scène.\n\nLe souvenir futur dans l'instant se déploie,\nFixant pour l'avenir cette muette joie,\nDont la beauté fragile est seule souveraine.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, capture la quiétude d'une scène au bord d'un lac. Il suit la structure d'un sonnet français avec des rimes croisées dans les quatrains (ABAB ABAB) et un schéma CCD EED dans les tercets. Le poème explore le thème de la photographie comme moyen d'immortaliser un moment fugace, transformant un paysage en un souvenir éternel."
+    },
+    "total_token_count": 5846,
+    "image_path": "data/Train/992.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Mozart Immortel",
+      "poem_content": "Dans le ciel de Vienne où le soleil l'honore,\nLe marbre blanc figure un geste souverain,\nEt fige pour les temps la grâce qui décore\nLe maître dont le nom luit sur le bloc d'airain.\n\nSon œil semble chercher la note qui s'ignore,\nSon front porte l'éclat d'un génie divin,\nSon art est un trésor que le silence arbore,\nEt son silence est plein d'un murmure sans fin.\n\nLes anges à ses pieds, chœur de pierre polie,\nRappellent à jamais l'ardente mélodie\nQui sut charmer le monde et vaincre le trépas.\n\nSon corps n'est que poussière et sa vie envolée,\nMais sa musique vibre, en l'âme consolée,\nEt son génie au temps ne se soumettra pas.",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, rend hommage à la figure de Mozart, immortalisée par la statue. Les quatrains décrivent le monument et évoquent le génie silencieux du compositeur, tandis que les tercets célèbrent la victoire de sa musique sur le temps et la mort. La structure suit le schéma de rimes ABAB ABAB CCD EED, typique du sonnet français."
+    },
+    "total_token_count": 6945,
+    "image_path": "data/Train/993.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Rive du Tage",
+      "poem_content": "Une vague de pierre au bord du fleuve immense,\nSuspend sa courbe blanche à l'œil du promeneur,\nOù le ciel gris déploie son voile de silence,\nTandis qu'un pont lointain impose sa rigueur.\n\nLe monstre de béton, dans sa magnificence,\nReflète un ciel sans joie, sans éclat, sans chaleur,\nEt sa peau de carreaux, dans une lente cadence,\nAccueille le passant, rêveur et sans clameur.\n\nLe flot tranquille unit ces deux arts opposés,\nL'un né de l'industrie, l'autre aux vents exposés,\nGardant l'âme du lieu dans leur forme éclose.\n\nL'homme y marche et médite, en songeant à la cause\nDe cette étrange paix que le béton impose,\nEt du temps qui s'enfuit sur le courant morose.",
+      "poem_explanation": "Ce sonnet classique, composé d'alexandrins, dépeint une scène où l'architecture moderne et une structure industrielle coexistent. Le poème suit une structure de rimes croisées pour les quatrains (ABAB) et une structure en CCD EED pour les tercets, créant une méditation sur le temps, l'art et la condition humaine face à ces œuvres monumentales."
+    },
+    "total_token_count": 6274,
+    "image_path": "data/Train/994.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Escale Sereine",
+      "poem_content": "Le ciel d'un bleu parfait inonde la muraille,\nLes blancs bateaux amarrés semblent des songes lents,\nEt l'eau, miroir changeant, reflète sans bataille\nLes murs aux tons passés et les volets battants.\n\nUn arbre au front touffu domine le tableau,\nOù le temps semble fuir toute inquiétude,\nEt le reflet de l'onde, en un frisson nouveau,\nRépète à l'infini cette belle habitude.\n\nL'âme est ici posée, douce, calme et sereine,\nLoin de la vie urbaine et de sa course vaine,\nCapturant la splendeur d'un immuable été.\n\nC'est un havre de paix, un adorable lieu,\nQui suspend notre esprit sous le regard des cieux,\nEt grave dans le cœur cette heure de clarté.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint une scène portuaire baignée de lumière et de quiétude. La structure respecte la forme française avec deux quatrains en rimes croisées (ABAB) suivis de deux tercets (CCD EED). Le poème évolue d'une description visuelle des lieux vers une méditation sur la paix et la beauté intemporelle de l'instant."
+    },
+    "total_token_count": 6070,
+    "image_path": "data/Train/995.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Soleils Captifs",
+      "poem_content": "Dans l'osier sombre où le jour à demi s'efface,\nRepose un fruit d'or vif, promesse d'âpreté,\nTrésor cueilli que l'ombre austère enlace,\nÉclat d'un astre né d'un soleil d'été.\n\nSa peau rugueuse a bu la chaleur et la grâce\nD'un ciel lointain, gardant sa vive acidité ;\nChaque feuille de vert rehausse encore sa face,\nHumble soleil captif, plein d’amère clarté.\n\nL'âme parfois entasse en sa corbeille obscure\nDes jours brillants mêlés à la saveur si dure,\nEt croit tenir un bien à jamais immortel.\n\nMais il faut presser l'heur et sa fugace plainte\nPour découvrir au fond la lumineuse empreinte\nD'un parfum de bonheur, pur et providentiel.",
+      "poem_explanation": "Ce poème est un sonnet classique français, composé en alexandrins. Il suit la structure de rimes croisées pour les quatrains (ABAB ABAB) et une structure en CCD EED pour les tercets, conformément au guide. Inspiré par l'image, il utilise la métaphore des citrons comme des 'soleils captifs' pour développer une réflexion sur la dualité des souvenirs, où l'amertume et la lumière se mêlent pour créer une essence précieuse."
+    },
+    "total_token_count": 6537,
+    "image_path": "data/Train/996.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Sage d'Ivoire",
+      "poem_content": "Tel un colosse ancien que la jungle a conquis,\nSon regard semble lire un invisible grimoire ;\nIl règne en majesté sur ce profond maquis,\nEt son silence est lourd de toute sa mémoire.\n\nSa peau, carte du temps, raconte mille gestes,\nSes larges pavillons captent le moindre son ;\nVestige d'un vieux monde aux grandeurs manifestes,\nIl marche, seul témoin de l'antique saison.\n\nIl porte en lui le poids des âges révolus,\nUn monde de secrets à jamais absolus,\nLoin des vaines fureurs et des tristes querelles.\n\nSon ombre sur le sol est un vivant rempart,\nIl avance d'un pas qui ne connaît le départ,\nSymbole d'une vie aux forces éternelles.",
+      "poem_explanation": "Ce sonnet classique dépeint la majesté et la sagesse d'un éléphant, perçu comme un monarque ancien de la nature. La structure respecte la forme du sonnet français avec deux quatrains en rimes croisées (ABAB) et deux tercets (CCD EED), le tout en alexandrins. Le poème utilise des métaphores pour évoquer la mémoire et la force tranquille de l'animal."
+    },
+    "total_token_count": 7521,
+    "image_path": "data/Train/997.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Sentier de Lumière",
+      "poem_content": "Le pont de bois serpente en une courbe lente,\nVers le cœur d'une nef où le silence est roi,\nEt la clarté du soir, douce et somnolente,\nVerse sur le sentier ses derniers feux d'émoi.\n\nLes troncs vertigineux, gardiens de la mémoire,\nDressent un temple obscur où filtre l'or du ciel,\nEt le feuillage dense y conte une histoire\nD'un temps primordial, pur et sempiternel.\n\nIci, le pèlerin, loin du bruit et des villes,\nSent son être s'unir au souffle de ce jour,\nEt dépose le poids des fièvres inutiles.\n\nLa lumière au lointain, promesse d'un séjour\nOù l'âme trouve enfin la paix tant espérée,\nDans la splendeur du calme et l'ombre révérée.\n",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, dépeint une promenade en forêt comme une quête spirituelle. Les deux quatrains à rimes croisées (ABAB) décrivent la scène d'un sentier boisé baigné de lumière, comparant la forêt à un temple. Les deux tercets (CCD EED) concluent sur une note introspective, où le chemin devient une métaphore du parcours intérieur vers la sérénité."
+    },
+    "total_token_count": 6111,
+    "image_path": "data/Train/998.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Guetteur Cendré",
+      "poem_content": "Immobile échassier au port majestueux,\nTon plumage d'acier se fond dans le décor,\nTu sembles méditer un sort silencieux,\nEt ton œil jaune et vif est un éclat d'or.\n\nLe vent léger soupire et caresse ta plume,\nFigé comme un gardien au bord du clair ruisseau,\nTu restes insensible à la naissante brume,\nComme un sage absorbé par un songe nouveau.\n\nTon attente est un art, une longue prière,\nDont le seul but est pris dans l'onde coutumière ;\nTon bec, arme subtile, est prêt à s'élancer.\n\nEt ta contemplation devient une habitude,\nAinsi le temps s'écoule en cette solitude,\nQue seul un vif éclair viendra récompenser.",
+      "poem_explanation": "Ce sonnet en alexandrins brosse le portrait d'un héron, symbole de patience et de contemplation. Les quatrains (rimes croisées ABAB) décrivent sa posture majestueuse et son immobilité face aux éléments. Les deux tercets (rimes CCD EED) concluent sur une réflexion sur l'art de l'attente, destinée à s'achever par un geste vif et décisif."
+    },
+    "total_token_count": 7513,
+    "image_path": "data/Train/999.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Monarque Enclos",
+      "poem_content": "Derrière le grillage au dessin régulier,\nUn monarque oublié, drapé de noir plumage,\nIl promène son pas dans l'enclos familier,\nPortant sur son col nu l'étrange maquillage.\n\nSon œil fixe un lointain qu'on ne peut deviner,\nAu-delà des maillons, mortelle barrière,\nEt son orgueil royal semble se dessiner\nDans le reflet changeant d'une pâle lumière.\n\nSon glouglou rauque et sourd dans la cour se lamente,\nVoix d'un prince déchu qu'un songe vain tourmente,\nIgnorant du festin et du jour sans pareil\nOù son destin sera par le fer arrêté,\nIl garde en son regard une fière beauté,\nEt contemple, rêveur, les rais d'or du soleil.\n",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint la condition d'un dindon en captivité. La structure, deux quatrains en rimes croisées (ABAB CDCD) suivis de deux tercets (CCD EED), oppose la noblesse de l'animal ('monarque', 'orgueil royal') à la prison de son enclos ('grillage', 'barrière'). Les tercets introduisent une note de mélancolie et d'ironie tragique sur son destin ignoré."
+    },
+    "total_token_count": 6297,
+    "image_path": "data/Val/2002.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Vigie de Pierre",
+      "poem_content": "Sur le roc ancestral que le soleil domine,\nUn mouflon solitaire observe le lointain,\nDressé sur l'éperon que l'ombre fraîche mine,\nMonarque sans couronne et farouche gardien.\n\nNul souffle ne trahit sa présence fière,\nSon sabot assuré connaît chaque chemin ;\nIl est fils de ce vent, enfant de cette pierre,\nEt ne craint ni l'abîme, ni le cruel destin.\n\nSon royaume est de pierre, un trône d'âpreté,\nOù nul ne vient troubler sa fière majesté ;\nIl est l'âme du roc, le souffle de la cime.\n\nLe soleil à son front dépose un diadème,\nFait d'un rayon si pur qu'il est l'instant suprême,\nGardien silencieux d'un mystère sublime.",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint la figure noble d'un mouflon, gardien solitaire de son domaine minéral. La structure respecte les règles du sonnet français avec des rimes croisées dans les quatrains (ABAB CDCD) et une disposition en CCD EED pour les tercets, qui élèvent l'animal au rang de symbole d'une liberté sauvage et intemporelle."
+    },
+    "total_token_count": 5622,
+    "image_path": "data/Val/2003.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Char de Maïs",
+      "poem_content": "Sur la table jonchée, après le grand festin,\nUn engin singulier captive le regard ;\nSe dresse un combattant d'un bien étrange instinct,\nFruit d'un songe enfantin ou d'un heureux hasard.\n\nSon corps est un maïs aux grains d'or éclatant,\nSes chenilles de fleurs ignorent le combat ;\nUn soldat de plastique au sourire constant,\nQui sur la nappe blanche mène un paisible ébat.\n\nLoin des champs de bataille où résonnent les drames,\nIl n'est qu'un bibelot pour apaiser les âmes,\nEt son corps de maïs est un gage de paix.\n\nSa force est la douceur d'un sourire tranquille,\nSon triomphe est de rendre un instant plus facile,\nCe monde où le repos ne se trouve jamais.\n",
+      "poem_explanation": "Ce sonnet classique s'inspire de l'objet insolite de l'image, un char-jouet en forme de maïs. Il oppose l'univers de la guerre à celui de l'enfance et de la nature. La forme respecte les deux quatrains en rimes croisées et les deux tercets en alexandrins, suivant le modèle ABAB ABAB CCD EED, pour une réflexion sur la paix trouvée dans le jeu."
+    },
+    "total_token_count": 6197,
+    "image_path": "data/Val/2004.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Crépuscule Urbain",
+      "poem_content": "Le soir étend son voile aux couleurs violettes,\nSur les fronts de béton, géants silencieux,\nDressant vers l'infini leurs sombres silhouettes,\nQui percent la langueur d'un ciel mystérieux.\n\nL'astre du jour s'efface en lueurs discrètes,\nLaissant au firmament un reflet gracieux,\nEt la cité contemple en ses formes parfaites\nLa paix qui vient du fond d'un monde harmonieux.\n\nDans le silence altier de cette architecture,\nS'allume un point de vie, fragile et qui murmure,\nL'écho d'un battement au sein du béton froid.\n\nLa ville est un spectacle où l'âme se contemple,\nUn gigantesque et solitaire temple,\nOù chaque être est un dieu, et chaque dieu est roi.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint un paysage urbain au crépuscule. Les deux quatrains, construits sur des rimes croisées (ABAB), décrivent l'atmosphère paisible et la majesté des bâtiments. Les deux tercets (CCD EED) introduisent une réflexion sur la solitude et la vie cachée au sein de cette immensité de béton, contrastant la froideur de l'architecture avec la chaleur des existences qu'elle abrite."
+    },
+    "total_token_count": 9008,
+    "image_path": "data/Val/2005.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Pacha sur la Fenêtre",
+      "poem_content": "Sur le bois brun, drapé dans son royal velours,\nCe pacha roux trône au bord de la fenêtre,\nIl voit passer le temps, l'ennui des fades jours,\nEt de ce petit monde il se proclame maître.\n\nSon œil mi-clos, chargé de songes oppressants,\nFixe au-dehors la face usée des vieux murs,\nIgnore les flacons, ces objets incessants,\nEt méprise nos soins, nos gestes trop impurs.\n\nTout ce désordre humain lui semble bien futile,\nSes pattes sur le bois demeurent immobiles,\nBaigné d'un doux rayon de pâle lumière.\n\nCar rien ne peut troubler la paix d'un tel grand roi,\nQui, dans son univers, ne règne que pour soi,\nEt trouve l'infini dans un grain de poussière.\n",
+      "poem_explanation": "Ce sonnet classique dépeint le portrait d'un chat contemplatif sur un rebord de fenêtre. Il adopte une structure régulière en alexandrins, avec deux quatrains en rimes croisées (ABAB) suivis de deux tercets (CCD EED). Le poème personnifie l'animal en 'pacha', soulignant sa majesté indifférente face au désordre du monde humain."
+    },
+    "total_token_count": 7175,
+    "image_path": "data/Val/2006.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Monarque Boudeur",
+      "poem_content": "Jugeant le monde vain du haut de son grand âge,\nSon regard plissé couve un mépris souverain ;\nSon front est un amas de savant plissage,\nEt son souffle est léger, presque un souffle divin.\n\nIl ne quête jamais l'indigne badinage,\nDédaignant la caresse offerte par la main,\nCar son âme a choisi pour unique apanage\nLe silence et le songe au creux du lendemain.\n\nPourtant, sous cet air grave et cette mine austère,\nUn simple cœur de chat sommeille, et puis se terre,\nRêvant de quiétude et de soleil nouveau.\n\nIl ferme alors ses yeux, lassés de la lumière,\nAbandonnant son rôle et sa morgue princière,\nLoin du monde et du bruit, trouvant le ciel plus beau.",
+      "poem_explanation": "Ce poème est un sonnet classique en alexandrins qui personnifie le chat de l'image en un monarque dédaigneux et sage. La structure respecte la forme française avec deux quatrains en rimes embrassées (ABAB ABAB) et deux tercets (CCD EED). Les quatrains décrivent son attitude princière, tandis que les tercets révèlent la nature plus simple et paisible qui se cache derrière son expression sévère."
+    },
+    "total_token_count": 5698,
+    "image_path": "data/Val/2007.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Pagode sous la Neige",
+      "poem_content": "Un voile gris s'étend sur la ville moderne,\nLa neige frêle a pris la terre pour séjour,\nEt le pin noir, gardien d'une paix sempiternelle,\nContemple au loin pâlir les derniers feux du jour.\n\nLà-bas, dressant ses toits vers la voûte livide,\nLa vieille pagode observe un monde différent,\nVestige d'un temps lent au silence placide,\nOù l'homme bâtisseur se montre indifférent.\n\nLe froid saisit le sol, le branchage et l'écorce,\nImposant au chaos sa silencieuse force,\nOù l'âme du passé semble enfin s'endormir.\n\nLa pagode est un songe, une ancienne promesse,\nQui toise le béton et sa vaine rudesse,\nEt que nul avenir ne saurait voir finir.",
+      "poem_explanation": "Ce poème est un sonnet classique en alexandrins, suivant le schéma de rimes ABAB ABAB pour les quatrains et CCD EED pour les tercets. Il dépeint la scène hivernale de l'image en opposant la quiétude de la nature et l'héritage ancien (la pagode) à l'expansion de la ville moderne, le tout uni sous le silence de la neige."
+    },
+    "total_token_count": 6764,
+    "image_path": "data/Val/2008.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Jardin d'Hiver",
+      "poem_content": "Le ciel de plomb étend son voile uniforme,\nUn froid manteau de neige a couvert le gazon,\nOù la colline ploie en sa discrète forme,\nEt fige dans l'instant la fragile saison.\n\nLà-haut, le kiosque noir, aux courbes d’Orient,\nObserve le silence et les pins solitaires,\nDéfie le ciel d'hiver, muet et patient,\nDont les sombres rameaux sont des bras austères.\n\nQuelques ombres s'en vont, silhouettes lassées,\nQui sur le blanc du sol gravent leurs pas pressés ;\nLeurs parapluies ouverts sont des fleurs éphémères.\n\nEt dans ce paysage où tout semble s'attendre,\nSe mêle au froid piquant une douceur plus tendre,\nUn instant de beauté, loin des choses amères.\n",
+      "poem_explanation": "Ce sonnet d'inspiration classique décrit la beauté mélancolique d'un paysage d'hiver. Le poème respecte la forme du sonnet français en alexandrins, avec des rimes croisées dans les quatrains (ABAB ABAB) suivies de rimes plates dans les tercets (CCD EED), pour illustrer une scène à la fois figée et empreinte d'une grâce éphémère."
+    },
+    "total_token_count": 6202,
+    "image_path": "data/Val/2009.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Éclat des Magnolias",
+      "poem_content": "Sur un ciel printanier aux nuées vagabondes,\nLe magnolia déploie un trésor éphémère,\nSes corolles de pourpre en gerbes si fécondes,\nIgnorent du chemin la rumeur coutumière.\n\nLe passant qui le voit suspend un bref instant,\nSa course dans la ville à la hâte asservie,\nDevant ce pur tableau, sublime et persistant,\nOù la grâce des fleurs embellit notre vie.\n\nLe cœur se sent touché par ce puissant spectacle,\nQui transforme le lieu en un divin miracle,\nOù le temps semble enfin suspendre son assaut.\n\nCar l’arbre nous rappelle en sa beauté sereine,\nQue la vie est plus forte et toujours se déchaîne,\nPour offrir à nos yeux ce qu’il y a de plus haut.",
+      "poem_explanation": "Ce sonnet classique en alexandrins s'inspire de l'image des magnolias en fleurs. Il oppose la beauté éphémère et sereine de la nature à l'agitation de l'environnement urbain. La structure respecte la forme française avec deux quatrains en rimes croisées (ABAB CDCD) et deux tercets en rimes plates (CCD EED), concluant sur une réflexion sur la force régénératrice du printemps."
+    },
+    "total_token_count": 8116,
+    "image_path": "data/Val/2010.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Éveil Printanier en Ville",
+      "poem_content": "Sous le ciel clair un rose et tendre flot s'épanche,\nTandis qu'au loin la ville étend son gris bitume,\nEt le printemps déploie une éphémère branche,\nOù la vie indifférente à sa fleur se consume.\n\nDes passants pressés glissent sur leurs engins d'acier,\nLe soleil doux réchauffe un sol encor stérile,\nIgnorant la splendeur qui vient les défier,\nOfferte en un tableau par la nature habile.\n\nMais dans ce parc modeste un instant suspendu,\nUn souffle de beauté soudain s'est répandu,\nChangeant le morne aspect du monde familier.\n\nLa promesse d'un jour qui chasse l'ombre amère,\nUne trêve poétique et douce et éphémère,\nQui fleurit sur le bord d'un chemin coutumier.",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, dépeint le contraste entre l'éclosion printanière et le cadre urbain moderne. Les quatrains, bâtis sur des rimes croisées (ABAB), opposent la beauté des arbres en fleurs à l'agitation de la ville. Les deux tercets (CCD EED) concluent sur une réflexion poétique, voyant dans cette scène éphémère un moment de grâce suspendu au cœur du quotidien."
+    },
+    "total_token_count": 6555,
+    "image_path": "data/Val/2011.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Éclat Passager",
+      "poem_content": "Le long du mur austère où le savoir demeure,\nUne allée s'épanouit sous un ciel apaisé,\nSoudain le magnolia suspend la course de l'heure,\nOffrant son faste rose au regard embrasé.\n\nLa foule en son courant, sur ses engins pressée,\nTraverse ce tableau d'un élan fugitif,\nSans voir que le printemps, en sa gloire insensée,\nRend chaque spectateur de sa beauté captif.\n\nLe geste suspendu veut figer le moment,\nSur l'écran où la fleur luit comme un diamant,\nEt garder le trésor d'une saison si brève ;\nPourtant, le flot humain continue sa marée,\nIndifférent au charme de l'heure colorée,\nCar la beauté s'éteint comme s'achève un rêve.",
+      "poem_explanation": "Ce sonnet classique en alexandrins s'inspire de la scène printanière d'un campus. Les deux quatrains en rimes croisées (ABAB) décrivent le contraste entre la floraison des magnolias et l'agitation humaine. Le sizain final, sur un schéma de rimes CCD EED, développe une réflexion sur la tentative de capturer la beauté éphémère face à l'indifférence du temps qui passe."
+    },
+    "total_token_count": 7120,
+    "image_path": "data/Val/2012.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Phare Écarlate",
+      "poem_content": "Dans le velours du soir, un colosse de bois,\nS'embrase et resplendit de mille feux ardents,\nÉlevant vers le ciel sa majestueuse voix,\nGardien silencieux des siècles et du temps.\n\nSes toits recourbés, d'un rouge incandescent,\nDéfient l'obscurité qui règne sur le monde,\nTel un dragon de feu, dormant et rugissant,\nDont la chaude clarté sur la terre s'inonde.\n\nLe passant immobile admire ce trésor,\nQui semble murmurer un légendaire accord,\nEt livre à la nuit sombre une âme souveraine.\n\nIci le temps s'arrête en sa course lointaine,\nPour baigner de sa paix une beauté sereine,\nQui brûle sans s'éteindre et jamais ne s'aliène.\n",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, dépeint la majesté d'une pagode illuminée dans la nuit. Les quatrains utilisent des métaphores comme le 'dragon de feu' pour décrire sa structure et sa lumière écarlate. Les tercets offrent une réflexion sur le temps suspendu et la beauté intemporelle de ce 'phare oriental'. La structure respecte le schéma de rimes croisées (ABAB) dans les quatrains, suivi d'un schéma CCD EED pour les tercets, conformément à la tradition du sonnet français."
+    },
+    "total_token_count": 7483,
+    "image_path": "data/Val/2013.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": false,
+      "poem_type": null,
+      "poem_title": null,
+      "poem_content": "L'image fournie, représentant un texte technique ou scientifique sur un écran, ne se prête pas à la création d'un poème de style classique français. Les thèmes de la poésie classique, tels que la nature, l'amour ou la mythologie, sont absents de cette image, rendant l'inspiration poétique impossible dans le respect des contraintes.",
+      "poem_explanation": "La nature du contenu de l'image, purement technique et dénuée d'éléments esthétiques ou évocateurs, empêche la composition d'une œuvre poétique classique pertinente et de qualité."
+    },
+    "total_token_count": 7178,
+    "image_path": "data/Val/2014.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Foire aux Illusions",
+      "poem_content": "Un ciel de plomb s'étend sur ce gazon d'emprunt,\nOù des corps sans esprit, figés sous les tentures,\nPortent l'habit d'un temps ou d'un songe défunt,\nVendant d'étranges airs et de froides parures.\n\nL'écran géant poursuit un combat importun,\nMêlant sport et commerce en de vives postures,\nEt le passant ne voit qu'un spectacle commun,\nQui masque mal le vide au cœur de ces structures.\n\nTout n'est qu'illusion, un spectacle arrangé,\nOù l'art d'autrefois semble un songe abrégé,\nPour vendre au passant une image qui séduit.\n\nMais dans ce faux décor qu'un vent léger désole,\nL'esprit ne trouve point la grâce qui console,\nEt fuit ce carnaval où le vrai s'est détruit.\n",
+      "poem_explanation": "Ce sonnet classique dépeint une scène de foire moderne comme une métaphore de l'illusion et du mélange des époques. Les quatrains décrivent le contraste entre tradition et modernité dans un décor artificiel. Les tercets offrent une réflexion sur la perte d'authenticité. Le poème respecte la structure en alexandrins avec un schéma de rimes ABAB ABAB CCD EED."
+    },
+    "total_token_count": 9693,
+    "image_path": "data/Val/2015.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Attente Studieuse",
+      "poem_content": "Dans la salle muette où le temps semble attendre,\nTrois fronts pensifs tournés vers un même horizon,\nNul son ne vient l'étude ou le calme surprendre,\nSuspendus au discours, captifs de la leçon.\n\nLa table de bois clair s'étend comme une grève,\nOù le stylo posé marque une courte paix ;\nChaque esprit attentif vers le savoir s'élève,\nOubliant du dehors les futiles attraits.\n\nLeurs regards concentrés, graves et sans artifice,\nReflètent du futur le poids et l'édifice,\nConstruit de patience et de mots écoutés.\n\nEt dans ce grand silence où leur âme est promise,\nLa même ambition doucement les unit,\nPour les triomphes purs que la science a semés.\n",
+      "poem_explanation": "Ce sonnet en alexandrins dépeint une scène d'étude, capturant l'atmosphère de concentration silencieuse. Il respecte la structure classique avec deux quatrains en rimes croisées (ABAB) décrivant la scène, suivis de deux tercets (CCD EED) qui explorent la pensée intérieure des sujets et leur ambition commune face à l'avenir."
+    },
+    "total_token_count": 4914,
+    "image_path": "data/Val/2016.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Instant Sucré",
+      "poem_content": "Sur la banquette un frère et sa sœur sont assis,\nLe sucre d'une orbe au bout d'un fin bâton ;\nLeur doux regard se perd, par le voyage occis,\nDans la langueur du temps et son lent abandon。\n\nLe paysage fuit, invisible tableau,\nDont l'œil distrait ne capte aucune forme vive ;\nCar l'univers se borne à ce plaisir nouveau,\nQue leur jeune innocence en silence cultive。\n\nCe goût, pareil aux jours que l'on voudrait sans fin,\nS'éteint comme un parfum subtil et anodin,\nEt laisse une mémoire à la saveur exquise。\n\nÔ temps, conserve-leur ce moment précieux,\nCe simple et pur bonheur sous le regard des cieux,\nAvant que l'âge adulte à jamais ne le brise。\n",
+      "poem_explanation": "Ce sonnet s'inspire de la scène des deux enfants pour tisser une métaphore sur la douceur éphémère de l'enfance. La sucette devient le symbole de l'instant fugace et précieux. Le poème respecte la forme classique du sonnet français en alexandrins, avec deux quatrains en rimes croisées (ABAB CDCD) suivis de deux tercets (CCD EED), pour évoquer la mélancolie du temps qui passe."
+    },
+    "total_token_count": 6445,
+    "image_path": "data/Val/2017.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": false,
+      "poem_type": null,
+      "poem_title": null,
+      "poem_content": "L'image fournie, représentant la table des matières d'un ouvrage politique en langue étrangère, ne présente pas les éléments visuels, émotionnels ou symboliques propices à la création d'un poème de style classique français. Ce genre requiert une inspiration tirée de la nature, des sentiments ou de scènes évocatrices, absentes de ce document.",
+      "poem_explanation": "L'image fournie, représentant la table des matières d'un ouvrage politique en langue étrangère, ne présente pas les éléments visuels, émotionnels ou symboliques propices à la création d'un poème de style classique français. Ce genre requiert une inspiration tirée de la nature, des sentiments ou de scènes évocatrices, absentes de ce document."
+    },
+    "total_token_count": 3708,
+    "image_path": "data/Val/2018.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Les Ailes Immobiles",
+      "poem_content": "Sur l'étagère blanche un présent sommeille,\nFigé dans son plastique, un frêle oiseau de foire,\nEt d'un ruban de soie la couleur vermeille\nPromet pour un enfant un instant de victoire.\n\nSes ailes ne prendront jamais leur grand réveil,\nEt son corps immobile ignore le grimoire\nDes vents et des nuées, chimère sans pareille,\nCondamné à rêver une illustre histoire.\n\nAinsi tout grand désir, avant que l'on ne l'ose,\nRepose en un objet plein de métamorphose ;\nSon monde est un espoir que nul vent n'a froissé.\n\nIl attend le moment d'être enfin révélé,\nPar le simple bonheur d'un regard consolé,\nTrésor silencieux pour un cœur délaissé.",
+      "poem_explanation": "Ce sonnet, inspiré par une scène du quotidien, transforme un jouet et un cadeau en une allégorie du désir et de l'attente. La structure respecte la forme classique du sonnet français en alexandrins, avec des rimes croisées dans les quatrains (ABAB ABAB) et une structure en CCD EED pour les tercets, évoquant la nature suspendue du rêve avant sa réalisation."
+    },
+    "total_token_count": 9809,
+    "image_path": "data/Val/2019.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Nocturne Absurde",
+      "poem_content": "Sur le chemin désert que la nuit rend plus noire,\nUne étrange créature, silhouette peu sûre,\nAvance comme un songe hors de toute mémoire,\nVêtue d'un vert absurde au milieu du murmure.\n\nLe vent glace le pas de ce spectre passant,\nQui semble ignorer tout du monde et de ses lois,\nSon costume d'écailles d'un éclat verdissant,\nProjette une ombre folle au cœur du sombre bois.\n\nEst-ce un rêve éveillé, un conte qui se joue ?\nOu l'errance d'une âme qui sa raison déjoue ?\nLe bitume sans fin reflète son émoi.\n\nNul ne peut expliquer ce fugitif instant,\nQui suspend le réel d'un trouble captivant,\nLaissant le spectateur seul et rempli d'effroi.",
+      "poem_explanation": "Ce sonnet en alexandrins dépeint une scène nocturne et surréaliste inspirée par l'image floue. Il respecte la forme classique avec deux quatrains en rimes croisées (ABAB) et deux tercets (CCD EED), créant une atmosphère de mystère et d'étrangeté autour de cette apparition incongrue."
+    },
+    "total_token_count": 5981,
+    "image_path": "data/Val/2020.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Libellule d'Acier",
+      "poem_content": "Aux pieds de l'athlète, une promesse ardente,\nTa forme évanescente évoque un vol léger,\nTu fends la piste ocre et la clameur montante,\nPrêt à braver le temps, le vent et le danger.\n\nTon nom de libellule inspire la cadence,\nLe souffle devient court, le muscle est souverain,\nEt dans l'ultime effort, la suprême élégance,\nLe coureur ne fait qu'un avec le sol carmin.\n\nL'athlète se dépasse et tutoie l'infini,\nSon corps n'est qu'un éclair sur le sol aplani,\nEt le temps, un instant, semble s'être arrêté.\n\nPuis la course s'achève et le silence est né,\nL'objet est remisé, son grand jour terminé,\nSimple outil d'un exploit pour la postérité.",
+      "poem_explanation": "Ce sonnet de forme classique (deux quatrains, deux tercets en alexandrins) s'inspire du nom du produit, 'Dragonfly' (libellule), pour filer une métaphore sur la vitesse et l'éphémère de l'exploit sportif. Le poème respecte la structure ronsardienne avec des rimes croisées dans les quatrains (ABAB ABAB) et un schéma CCD EED dans les tercets, associant un objet moderne à une tradition poétique ancienne."
+    },
+    "total_token_count": 7455,
+    "image_path": "data/Val/2021.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Lueur Digitale",
+      "poem_content": "Dans un halo de feu, spectre presque irréel,\nLa lumière se fond au prisme d’un écran ;\nUn songe capturé dans un cœur de pixel,\nOù le regard précis cherche un contour en vain.\n\nEst-ce le souvenir d'une aurore en mémoire,\nOu le simple reflet d'une clarté fugace ?\nL'image nous retient, vision provisoire,\nQui du monde tangible a perdu toute trace.\n\nDe cette vision naît un étrange artifice,\nUn éblouissement qui devient un délice,\nEt fige pour toujours la beauté de l'instant.\n\nL'œil moderne apprend, dès lors, qu'il se contemple\nUn univers nouveau dans ce vitreux grand temple,\nOù le sublime éclôt sur un fond de néant.",
+      "poem_explanation": "Ce sonnet en alexandrins suit la forme classique française (ABAB ABAB CCD EED). Il s'inspire de l'image abstraite et lumineuse pour explorer le thème d'une beauté digitale et fugace, capturée par un écran. Les quatrains décrivent la perception floue, tandis que les tercets réfléchissent à cette nouvelle forme d'esthétique née de la technologie."
+    },
+    "total_token_count": 4155,
+    "image_path": "data/Val/2022.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Étude Silencieuse",
+      "poem_content": "Autour du bois commun, les visages penchés,\nFixent l'écran qui luit d'une blancheur égale,\nComme de vieux clercs sur leur labeur penchés,\nDans le silence plein d'une ardeur monacale.\n\nLoin des plaisirs du monde et des sentiers fauchés,\nLeur quête est un serment, une règle idéale,\nLes yeux sur le futur, les esprits accrochés\nAu firmament des arts, vision triomphale.\n\nLeur ambition s'écrit en lignes patientes,\nGravant des lendemains les formes naissantes,\nEt le savoir conquis est leur unique bien.\n\nDans ce lieu clos, le monde est une connaissance,\nQui prend la douce forme d'une lente croissance,\nDont ils seront demain le sage gardien.",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint une scène d'étude moderne avec les codes de la poésie traditionnelle. Il respecte le schéma de rimes ABAB ABAB CCD EED pour évoquer la concentration et l'ambition d'une jeunesse studieuse. Les quatrains posent le décor silencieux, tandis que les tercets célèbrent la construction du savoir et de l'avenir."
+    },
+    "total_token_count": 8380,
+    "image_path": "data/Val/2023.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Quatrain",
+      "poem_title": "Nuit Urbaine",
+      "poem_content": "La place immense et nue est un miroir de pluie,\nOù des signes de feu percent le deuil la nuit.\nLe passant solitaire y cherche son chemin,\nDans ces mots étrangers qui dessinent demain.\n",
+      "poem_explanation": "Ce quatrain en alexandrins dépeint une scène nocturne et urbaine. Il utilise des rimes plates (AABB) pour créer un rythme régulier, évoquant la solitude du passant face à des signes modernes et énigmatiques qui se reflètent sur le sol mouillé, symbolisant la quête d'avenir dans un monde impersonnel."
+    },
+    "total_token_count": 7146,
+    "image_path": "data/Val/2024.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Jeunes Espoirs",
+      "poem_content": "Sous la lumière vive, un rang de gais visages,\nCélèbre en souriant les labeurs de l'été ;\nL'innocence capture en ces regards si sages\nUn moment suspendu, tout plein de leur fierté.\n\nLeur cœur garde à jamais ces nouvelles images\nD'un savoir partagé dans la même clarté ;\nEt leurs rires sont là, comme de beaux présages\nD'un brillant avenir par l'étude sculpté.\n\nLe temps grave un instant au sceau du souvenir,\nLaissant à ces enfants un bel Avenir,\nEt leur joie est un phare en leur saison première.\nPuisse leur jeune élan ne jamais s'épuiser,\nEt leur espoir grandir pour tout fertiliser,\nAbreuvé par la source de cette humble lumière.",
+      "poem_explanation": "Ce sonnet, de forme classique (deux quatrains en rimes croisées suivis de deux tercets), capture l'instant de joie et de fierté d'une classe d'enfants à la fin d'un programme d'été. Le poème évoque l'espoir et la promesse de l'avenir semés par l'éducation, en utilisant une structure en alexandrins pour un effet solennel et touchant."
+    },
+    "total_token_count": 8712,
+    "image_path": "data/Val/2025.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Promesse en Étendard",
+      "poem_content": "Devant le fronton grave où le dragon sommeille,\nLa jeunesse en rangs fiers, espoir d'un nouveau monde,\nBrandit sous le ciel clair sa bannière faconde,\nEt dans chaque regard une aube se réveille.\n\nLe rouge du tissu, couleur vive et vermeille,\nUnit les jeunes cœurs en une même ronde,\nOù la ferveur commune et puissante abonde,\nEt semble murmurer une histoire à l'oreille.\n\nLeurs voix déjà s'accordent en un puissant refrain,\nSymbole d'un futur qu'ils forgent de leurs mains,\nEt dont l'ordre parfait bannira la souffrance.\n\nIls suivront sans trembler le tracé du chemin,\nPour bâtir, tous unis, les glorieux demains,\nTelle est du moins l'ardeur de leur douce espérance.",
+      "poem_explanation": "Ce sonnet de forme classique décrit une assemblée de jeunes gens unis sous un même étendard. Il est composé en alexandrins. Les deux quatrains en rimes embrassées (ABBA) décrivent le groupe et sa bannière symbolique. Les deux tercets, bâtis sur des rimes plates (CCDDEE), développent la thématique de la promesse collective et de l'espoir en un futur idéalisé."
+    },
+    "total_token_count": 7881,
+    "image_path": "data/Val/2026.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Festin des Coques",
+      "poem_content": "Sur la table dressée un blanc vaisseau s'avance,\nChargé de dons marins et de verts ornements,\nOffrant aux yeux charmés une riche abondance,\nOù l'art du cuisinier mêle les éléments.\n\nLa coque nacrée unit sa tendre providence\nAux feux du gingembre et aux divins piments,\nEt livre à notre faim, sans nulle résistance,\nSes trésors délicats en d'exquis condiments.\n\nDéjà l'esprit s'emporte et le désir s'éveille,\nDevant ce plat offert, somptueuse merveille,\nOù tout art culinaire a mis sa passion.\n\nC'est un instant de joie, une fête des sens,\nDes parfums d'Asie aux accords si puissants,\nQui comble le gourmand d'une vive émotion.",
+      "poem_explanation": "Ce sonnet de forme classique (Ronsardien) décrit un plat de fruits de mer en utilisant un langage poétique élevé. Il est composé en alexandrins (vers de 12 syllabes) et suit un schéma de rimes croisées dans les quatrains (ABAB ABAB) et plates dans les tercets (CCD EED), conformément au guide. Le poème utilise la métaphore et un vocabulaire choisi pour transformer une scène culinaire en une expérience esthétique."
+    },
+    "total_token_count": 6271,
+    "image_path": "data/Val/2027.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Verre des Songes",
+      "poem_content": "Dans le cristal profond où s'étage un trésor,\nUn monde de saveurs attend la cuillère,\nPoudré de noix, son faîte est un éclat d'or,\nEt chaque strate offre une étrange matière.\n\nLa glace et le lait blanc cachent ce doux décor,\nOù le rubis des fruits luit dans l'ombre légère ;\nUn sombre lit de fèves, tel un pacte fort,\nUnit le croquant vif à la douceur première.\n\nLa paille plonge droit vers ce trésor dormant,\nPour réveiller d'un coup son charme gourmand,\nEt confondre en un goût les multiples strates.\n\nAinsi l'art du plaisir, en ce verre contenu,\nOffre à l'âme un instant de bonheur suspendu,\nPlus doux que les nectars des coupes délicates.\n",
+      "poem_explanation": "Ce sonnet, composé en alexandrins, suit la forme classique française (deux quatrains et deux tercets). Il décrit les couches d'un dessert complexe, le présentant comme une métaphore d'un trésor de saveurs. Le poème respecte le schéma de rimes ABAB ABAB CCD EED."
+    },
+    "total_token_count": 4959,
+    "image_path": "data/Val/2028.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Grue Pensive",
+      "poem_content": "Sur l'herbe où l'ombre lente à pas comptés s'allonge,\nLa grue au long cou gris promène son sang-froid,\nSon plumage léger dans la brise se plonge,\nEt semble méditer sur une antique loi.\n\nSon pas noble et léger sur le gazon s'attarde,\nSonge-t-elle au voyage, au céleste matin ?\nSon panache mouvant est sa plus fière garde,\nOu regrette-t-elle un envol incertain ?\n\nTelle une châtelaine en sa verte prison,\nElle oublie en marchant la course des saisons,\nEt le cri de l'azur qui manque à l'horizon.\n\nSon panache léger est son seul diadème,\nCouronnant la noblesse en son geste suprême,\nEt son pas silencieux est une oraison.",
+      "poem_explanation": "Ce sonnet classique, de forme ABAB ABAB CCD EED, dépeint la grâce mélancolique d'une grue demoiselle. Le poème, en alexandrins, explore le contraste entre la noblesse de l'oiseau et son environnement clos, suggérant une rêverie sur une liberté perdue. Les quatrains posent la scène contemplative, tandis que les tercets concluent sur une image de royauté captive et de dignité silencieuse."
+    },
+    "total_token_count": 6387,
+    "image_path": "data/Val/2029.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Roi Captif",
+      "poem_content": "Sur son trône de bois, le colosse pensif\nRegarde l'eau dormante où son double s'ennuie,\nEt son front lourd, puissant, mais las et fugitif,\nPorte le ciel morose d'une éternelle pluie.\n\nSongeant aux fiers sommets, à l'air vif et massif,\nLoin de ce faux Éden où sa race survie,\nIl sent monter en lui le grondement plaintif\nD'une ancienne forêt qu'on lui a asservie.\n\nSon souffle lent trahit un tourment qui l'accable,\nCar ce décor n'est rien qu'un mensonge exécrable,\nEt son cœur bat au rythme d'un autre univers.\n\nIl ferme les yeux, voit des hivers et des hivers,\nLe vent glacé, la neige et le silence auguste,\nLa liberté sauvage, impérieuse et juste.\n",
+      "poem_explanation": "Ce sonnet, de forme classique Ronsardienne, est composé en alexandrins. Il suit un schéma de rimes croisées dans les quatrains (ABAB ABAB) et plates dans les tercets (CCD EED). Le poème explore le thème de la captivité et de la nostalgie, en dépeignant l'ours comme un monarque déchu qui rêve à sa liberté perdue, inspiré par sa posture contemplative et mélancolique sur l'image."
+    },
+    "total_token_count": 6340,
+    "image_path": "data/Val/2030.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Colosse d'Argile",
+      "poem_content": "Colosse rescapé d'un monde antédiluvien,\nSa peau semble une armure où le temps se prélasse,\nSon pas lourd sur le sol ne se souvient de rien,\nSinon du poids du ciel qui sur son dos s'amasse.\n\nSa corne vers la terre est un pouvoir certain,\nQui sonde le silence et défie la menace,\nMais son œil est éteint, perdu dans le lointain,\nGardien d'une mémoire que nul siècle n'efface.\n\nIl rêve aux grands fracas d'un magnifique âge,\nAu souffle de la terre, à son pouvoir sauvage,\nEt porte le fardeau d'un monde moribond.\n\nSon corps est un recueil de vivante mémoire,\nIl marche vers la fin de sa propre histoire,\nSans un cri, sans un pleur, grave et vagabond.\n",
+      "poem_explanation": "Ce sonnet classique, composé en alexandrins, dépeint le rhinocéros comme un colosse antique, un vestige d'un monde révolu. La structure des rimes (ABAB ABAB pour les quatrains et CCD EED pour les tercets) suit la tradition poétique française. Le poème évoque la force, la mélancolie et la solitude de cette créature monumentale, gardienne silencieuse d'une mémoire immémoriale."
+    },
+    "total_token_count": 8458,
+    "image_path": "data/Val/2031.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Oryx Captif",
+      "poem_content": "Sous un ciel sans ardeur, près des rocs imités,\nLe troupeau patient courbe un front langoureux ;\nExilés des déserts et des immensités,\nLeur regard semble attendre un souffle plus heureux.\n\nLa verdure factice où leur corne se perd\nN'est qu'un décor posé sur un sol incertain ;\nUn pâle songe vert, un horizon de fer,\nOù chaque aube ressemble au morne lendemain.\n\nEt pourtant, dans leur geste une grâce demeure,\nQui défie la prison et qui méprise l'heure,\nFigés dans la beauté d'un tableau pastoral.\n\nMais l'œil perçoit l'éclat de leur force latente,\nUne fierté sauvage, une obscure attente,\nL'instinct de l'infini, puissant et magistral.\n",
+      "poem_explanation": "Ce sonnet classique en alexandrins dépeint la condition d'oryx en captivité, telle que suggérée par l'image. Les quatrains, construits sur des rimes croisées (ABAB), établissent le contraste entre la noblesse des animaux et l'artificialité de leur enclos. Les tercets (CCD EED) développent une réflexion sur leur beauté mélancolique, qui masque une force et un instinct sauvage intacts."
+    },
+    "total_token_count": 6197,
+    "image_path": "data/Val/2032.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Les Douces Géantes",
+      "poem_content": "Sous le feuillage épais où le soleil s'allume,\nDe longs cous élancés, au pelage tacheté,\nUn peuple de géants dissipe l'amertume,\nOffrant leur doux regard à l'homme stupéfait.\n\nLeur front orné de bois qui frôle la ramure,\nS'incline avec douceur, majesté sans égale,\nVers la frêle barrière où l'homme s'aventure,\nPour goûter le contact de la bête idéale.\n\nLeur œil, d'un noir profond, longuement nous contemple,\nComme un miroir ancien, paisible et sans exemple,\nOù l'âme de la terre semble se refléter.\n\nUn pont est suspendu sur le fossé des âges,\nMêlant pour un instant les hommes et les sages,\nEt la main qui nourrit apprend à respecter.\n",
+      "poem_explanation": "Ce sonnet classique, en alexandrins, dépeint la rencontre entre l'homme et les girafes dans un cadre verdoyant. Les quatrains décrivent la majesté et la douceur de ces animaux, tandis que les tercets proposent une réflexion sur le lien entre l'humanité et la nature. La structure respecte le schéma de rimes croisées (ABAB) pour les quatrains et plates (CCD EED) pour les tercets."
+    },
+    "total_token_count": 5285,
+    "image_path": "data/Val/2033.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L’Onde Captive",
+      "poem_content": "Sur l'écran d'un azur où grille le silence,\nUn trait de pur néon traverse l'appareil,\nFaisceau qui me surprend par sa vive éloquence,\nCaptif d'un univers sans lune ni soleil.\n\nLa machine, immuable, observe la fréquence,\nDes mondes invisibles où l'onde se débat,\nMesurant le courant, le temps et la puissance,\nLe rythme ordonnateur d'un éternel combat.\n\nL'œil du savant, ainsi, par ses calculs guidé,\nPoursuit dans le signal un ordre ou une idée,\nEt croit lire en ce trait l'universel secret.\n\nMais ce rayon tremblant, ce fantôme de flamme,\nN'est-il qu'un chiffre vain, un graphique discret,\nOu le pouls lumineux d'une invisible âme ?\n",
+      "poem_explanation": "Ce sonnet classique en alexandrins s'inspire de l'image d'un oscilloscope pour explorer le contraste entre la science et le mystère. Les quatrains en rimes croisées (ABAB) décrivent la machine capturant un signal lumineux, tandis que les tercets (CCD EDE) proposent une réflexion philosophique sur la nature de cette 'onde captive', se demandant si elle n'est qu'une donnée ou le reflet de quelque chose de plus profond."
+    },
+    "total_token_count": 5888,
+    "image_path": "data/Val/2034.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Souffle du Peuple",
+      "poem_content": "Le peuple, océan aux vagues infinies,\nForge en silence l'œuvre où le temps s'accomplit ;\nIl porte en son sein le flux des destins et des vies,\nEt dans son grand courant le trône s'ensevelit.\n\nDe lui seul vient le souffle et la force première,\nC'est de son cœur que naît le verbe souverain ;\nEn lui retourne enfin toute voix, toute prière,\nComme un écho sans fin dans le creux de sa main.\n\nTelle est la voie tracée, un cercle sans contour,\nOù tout pouvoir périt sans ce constant retour\nVers la source du nombre où naît la sève immense.\n\nQui de ce flot profond détournerait son cours,\nNe bâtirait qu'un rêve en vaine précellence,\nEt verrait s'éteindre l'éclat de ses beaux jours.",
+      "poem_explanation": "Ce sonnet en alexandrins interprète le schéma conceptuel de l'image en utilisant des métaphores classiques. Il dépeint le peuple comme une force naturelle et cyclique, source et fin de tout pouvoir, à la manière d'un océan. La structure respecte la forme du sonnet français avec des rimes croisées dans les quatrains (ABAB) et une structure CCD EDE dans les tercets, offrant une réflexion finale sur cette puissance collective."
+    },
+    "total_token_count": 5357,
+    "image_path": "data/Val/2035.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": false,
+      "poem_type": null,
+      "poem_title": null,
+      "poem_content": "L'image fournie, présentant une diapositive de conférence au contenu politique et moderne, ne se prête pas à l'inspiration requise pour la composition d'un poème de style classique français. Ce genre poétique s'épanouit traditionnellement autour de thèmes tels que la nature, l'amour, le temps qui passe ou la mythologie.",
+      "poem_explanation": "Le sujet de l'image est trop abstrait, contemporain et didactique pour être transposé de manière authentique et esthétique dans les formes et les conventions de la poésie classique française. La création d'un poème pertinent et de qualité est donc impossible."
+    },
+    "total_token_count": 3651,
+    "image_path": "data/Val/2036.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "L'Art du Discours",
+      "poem_content": "Pour peindre l'univers ou conter une histoire,\nLe mot simple d'abord trace un premier chemin,\nLe verbe doit décrire et bâtir la mémoire,\nGuidant l'esprit captif par un geste certain.\n\nPuis l'art d'expliquer vient, plus docte et plus subtil,\nIl compare, il oppose, il définit la cause,\nDévoilant le secret d'un invisible fil\nQui lie l'effet au fait dans une juste prose.\n\nEnfin pour persuader, la pensée se fait reine,\nElle expose sa thèse et brise toute chaîne,\nForgeant de l'évidence un pouvoir souverain.\n\nL'argument est son sceptre et la preuve son trône,\nPour que l'autre raison, vaincue, s'abandonne\nAu jugement final d'un discours presque divin.",
+      "poem_explanation": "Ce sonnet classique s'inspire du diagramme pour dépeindre l'art du discours. La structure du poème suit la progression logique de l'image : les deux quatrains traitent des concepts de 'Décrire' et 'Expliquer', tandis que les deux tercets explorent le but ultime, 'Persuader'. Le poème est composé en alexandrins et respecte la forme du sonnet français avec des rimes croisées (ABAB) pour les quatrains et une structure en CCD EED pour les tercets."
+    },
+    "total_token_count": 6796,
+    "image_path": "data/Val/2037.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": false,
+      "poem_type": null,
+      "poem_title": null,
+      "poem_content": "L'image fournie, représentant une diapositive de présentation avec du texte technique en langue étrangère, ne se prête pas à la création d'un poème classique français. Le sujet est trop abstrait et manque des éléments visuels ou émotionnels habituellement nécessaires pour inspirer une œuvre poétique.",
+      "poem_explanation": "La création d'un poème est impossible car le contenu de l'image est de nature informative et académique. Il n'offre pas de matière lyrique, narrative ou symbolique pouvant être transposée dans le langage de la poésie classique française."
+    },
+    "total_token_count": 2893,
+    "image_path": "data/Val/2038.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "Le Dessein de l'Esprit",
+      "poem_content": "Quelle énigme tourmente une âme solitaire,\nDevant le champ immense où le vrai se dérobe ?\nQuel but guide le pas que la raison enrobe,\nPour arracher son fruit au grand sein de la Terre ?\n\nIl faut fixer un cap, une route exemplaire,\nRépondre au mal précis par la juste parole,\nSans que l'esprit divague ou le discours s'envole,\nEt que le plan s'accorde à son but salutaire.\n\nAinsi naît la réponse, humble et triomphante,\nQui du savoir ancien la frontière augmente,\nEt fait un pas de plus vers l'éternel matin.\n\nCar chaque conclusion, en son sein, porte en elle\nUne promesse neuve, une autre étincelle,\nQui guidera demain un plus lointain destin.\n",
+      "poem_explanation": "Ce sonnet classique, de forme pétrarquiste, s'inspire de la structure logique présentée sur l'image pour dépeindre la quête intellectuelle. Les deux quatrains en rimes embrassées (ABBA) posent la question de la recherche et la nécessité d'une méthode, tandis que les deux tercets (CCD EED) célèbrent l'émergence de la conclusion et son pouvoir d'ouvrir de nouvelles voies. Le poème est composé en alexandrins, respectant la métrique et les règles de la poésie classique française."
+    },
+    "total_token_count": 6833,
+    "image_path": "data/Val/2039.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": false,
+      "poem_type": null,
+      "poem_title": null,
+      "poem_content": "L'image fournie, présentant une diapositive de présentation sur des règles d'écriture, ne contient pas d'éléments visuels ou thématiques se prêtant à la composition d'un poème de style classique français. La nature purement technique et didactique du sujet ne permet pas de développer une inspiration poétique.",
+      "poem_explanation": "Le contenu de l'image est trop abstrait et informatif pour être transposé en une œuvre poétique classique, qui requiert généralement un support visuel ou émotionnel plus évocateur. Par conséquent, la création d'un poème respectant les exigences de qualité et de pertinence est impossible."
+    },
+    "total_token_count": 3276,
+    "image_path": "data/Val/2040.jpg"
+  },
+  {
+    "generated_content": {
+      "create_condition": true,
+      "poem_type": "Sonnet",
+      "poem_title": "La Leçon du Vide",
+      "poem_content": "Sur l'écran nu s'étale une froide sentence,\nOù l'esprit qui sondait a perdu son chemin ;\nLe mot « absent » témoigne d'une vaine évidence,\nEt « l'échec » est signé par un destin serein.\n\nNul changement n'émeut la donnée immuable,\nL'hypothèse se meurt, sans preuve et sans soutien ;\nLe fait, résistant, froid, devient inquestionnable,\nEt de l'effort passé il ne demeure rien.\n\nLa raison se contemple en sa grandeur stérile,\nUn savoir négatif sur un papier fragile,\nLe monde ignore tout de ce combat mortel.\n\nL'esprit, las de la lutte, abandonne son zèle,\nEt contemple un constat dont la rigueur est telle\nQu'il n'est de vérité que ce vide éternel.\n",
+      "poem_explanation": "Ce sonnet en alexandrins s'inspire du vocabulaire et du thème académique de l'image, traitant de l'échec scientifique et de la quête de connaissance. Il suit la structure classique française (deux quatrains en rimes croisées ABAB, deux tercets en rimes plates CCD EED) pour méditer sur la confrontation entre l'hypothèse humaine et un réel silencieux et résistant."
+    },
+    "total_token_count": 6632,
+    "image_path": "data/Val/2041.jpg"
+  }
+]
