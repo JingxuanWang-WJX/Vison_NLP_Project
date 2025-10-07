@@ -1,24 +1,20 @@
-# 华中科技大学人工智能与自动化学院视觉与自然语言处理（2025春）课程作业
+# Image-to-Poetry Framework Based on Large-Model Collaboration and Fine-Tuning
 
+## Supported Languages: Chinese, French
 
-
-#### 针对课程任务要求，本项目提出一种基于大模型协作的诗歌标注微调框架：
+#### This project proposes a collaborative large-model framework for poem annotation and fine-tuning:
 
 > [!IMPORTANT]
 >
-> 1. 搭建调用 Gemini-2.5-Pro API，以Prompt Engineering为核心构建自动化诗歌数据标注pipeline。总共对2369张图片进行标注，成功标注2345张，分离不适合作诗图片24张。
+> 1. We build an automated poetry data annotation pipeline driven by Prompt Engineering and powered by the Gemini-2.5-Pro API. A total of 2,369 images were processed: 2,345 successfully annotated, and 24 filtered out as unsuitable for poem generation.
 >
-> 2. 利用成功标注2345张的2345张图片，使用监督微调（Supervised Fine-Tuning）中的LoRA微调方法，依托开源项目LLama_Factory（[hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory)）
+> 2. Using the 2,345 successfully annotated image–poem pairs, we perform Supervised Fine-Tuning (SFT) with the LoRA method via the open-source project LLaMA-Factory ([hiyouga/LLaMA-Factory: Unified Efficient Fine-Tuning of 100+ LLMs & VLMs (ACL 2024)](https://github.com/hiyouga/LLaMA-Factory)), applying it to Qwen2.5-VL-7B and obtaining a high-quality fine-tuned model.
 >
->    对Qwen2.5-VL-7B进行LoRA微调，得到效果极佳的微调模型。
->
-> 3. 我们搭建了一个专注于根据图片生成诗歌的Web UI界面，包含调用Gemini-2.5-Pro API、加载原始Qwen2.5-VL-7B模型、加载微调Qwen2.5-VL-7B模型三种方式根据用户输入图片以及用户输入prompt生成所需要的诗歌，同时支持用户根据自己的需要进行个性化诗歌定制。
+> 3. We provide a Web UI dedicated to generating poetry from images. It supports three generation modes: invoking the Gemini-2.5-Pro API, using the original Qwen2.5-VL-7B model, and loading the LoRA fine-tuned Qwen2.5-VL-7B model. Users can upload an image and supply a custom prompt to steer style, theme, tone, or form, enabling personalized poetic output.
 
+#### Environment Setup & Installation
 
-
-#### 环境配置与安装
-
-```
+```bash
 git clone https://github.com/hiyouga/LLaMA-Factory.git
 conda create -n llama_factory python=3.10
 conda activate llama_factory
@@ -28,66 +24,69 @@ pip install -q -U google-genai
 pip install qwen_vl_utils
 ```
 
+#### Annotating Data via Gemini-2.5-Pro API
 
+##### Step 1: Run generate.py to start batch annotation.
 
-#### 调用 Gemini-2.5-Pro API 标注数据
-
-##### 第一步：启动 generate.py 标注数据。
-
-```
+```bash
 git clone https://github.com/lawrencewjx58/Vison_NLP_Project.git
 cd Vison_NLP_Project
 python generate.py
 ```
 
-##### 第二步：若 generate.py 因网络连接等原因中断，请运行 delete.py 删除已标注的图片以避免重复标注。
+##### Step 2: If generate.py stops (e.g., network failure), run delete.py to remove already annotated images and avoid duplicate processing.
 
-```
+```bash
 python delete.py
 ```
 
-##### 第三步：当标注完所有数据后，运行 merge.py，将多次标注得到的输出文件融合为一个输出文件，方便后续处理。
+##### Step 3: After all annotation batches complete, run merge.py to consolidate multiple output files into a single unified file.
 
-```
+```bash
 python merge.py
 ```
 
-##### 第四步：运行 count.py，对全部标注数据进行统计，查看重复标注的数据以及标注失败的数据。
+##### Step 4: Run count.py to produce statistics: detect duplicated annotations and failed cases.
 
-```
+```bash
 python count.py
 ```
 
+#### LoRA Fine-Tuning Qwen2.5-VL-7B with Gemini-Annotated Data
 
+##### Step 1: Run transform.py to convert all annotated data into the required fine-tuning format. Template used: mllm_demo.
 
-#### 使用 Gemini-2.5-Pro API 标注数据对Qwen2.5-VL-7B进行LoRA微调
-
-##### 第一步：运行 transform.py，将全部标注数据转化为微调所需的数据格式，本项目选用的模板为 mllm_demo。
-
-```
+```bash
 python transform.py
 ```
 
-##### 第二步：安装 Qwen2.5-VL-7B 原始模型。
+##### Step 2: Download the original Qwen2.5-VL-7B model.
 
-```
+```bash
 huggingface-cli download --resume-download Qwen/Qwen2.5-VL-7B-Instruct --local-dir {your_path} --local-dir-use-symlinks False --token {your_token}
 ```
 
-##### 第三步：启动 LLama_Factory 进行 LoRA 微调，微调参数设置为 learning_rate=5e-5, epoch=9.0, LoRA Rank r=64, LoRA Alpha=128, Drop_out=0.05。
+##### Step 3: Launch LLaMA-Factory and configure LoRA fine-tuning. Recommended hyperparameters:
+- learning_rate = 5e-5
+- num_train_epochs = 9.0
+- LoRA rank (r) = 64
+- LoRA alpha = 128
+- LoRA dropout = 0.05
 
-```
+```bash
 cd LLaMA-Factory
 llamafactory-cli webui
 ```
 
-##### 我们的 LoRA 微调模型参数已开源至 Hugging Face ([lawrencewjx58/Qwen2.5-VL-7B_LoRA_image2poem · Hugging Face](https://huggingface.co/lawrencewjx58/Qwen2.5-VL-7B_LoRA_image2poem))
+##### Released LoRA Weights (Chinese Poetry)
+[lawrencewjx58/Qwen2.5-VL-7B_LoRA_image2poem_Chinese](https://huggingface.co/lawrencewjx58/Qwen2.5-VL-7B_LoRA_image2poem_Chinese)
 
+##### Released LoRA Weights (French Poetry)
+[lawrencewjx58/Qwen2.5-VL-7B_LoRA_image2poem_French](https://huggingface.co/lawrencewjx58/Qwen2.5-VL-7B_LoRA_image2poem_French)
 
+#### Running the Web UI for Visualization
 
-#### 运行Web UI界面可视化展示成果
-
-```
+```bash
 cd Vison_NLP_Project
 python UI_Web.py
 ```
