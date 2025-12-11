@@ -29,7 +29,7 @@ pip install qwen_vl_utils
 ##### Step 1: Run generate.py to start batch annotation.
 
 ```bash
-git clone https://github.com/lawrencewjx58/Vison_NLP_Project.git
+git clone https://github.com/JingxuanWang-WJX/Vison_NLP_Project.git
 cd Vison_NLP_Project
 python generate.py
 ```
@@ -90,4 +90,5 @@ llamafactory-cli webui
 cd Vison_NLP_Project
 python UI_Web.py
 ```
+
 
